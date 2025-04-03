@@ -1,0 +1,15 @@
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/d7a5383c536b504f037fb76aaabef0ad5c2fbb173dc567c88d7bfd80d44cb359.jpg)
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/66eb5c4c915cf1f29867361884b927d116a51999642778abed0ad7b236ede19b.jpg)
+
+# $\\oslash$
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/af53333b7a236e3278a603c843e5ebbcf9808d7a4e337c153c7a855e4b6b1a29.jpg)
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/e53c2d37ce5da907f542a2bf3cf01a751358090358a5e08a744926faf827e593.jpg)
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/402336af8d525207532a02b04c38639b827c3628fa76128ae008358595c6cce8.jpg)
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/d804adef963c38b4e046242f1410abc397a1c17d785711350e4d888c8bd202a3.jpg)
+
+![](https://www.nta.go.jp/tmp/72a57157-9769-4885-a58f-93d11379ccd7/images/cea5ac5fd5e359592cea17d19bc5a151ff02d3ca7896dcb6011fc10074668f7c.jpg)

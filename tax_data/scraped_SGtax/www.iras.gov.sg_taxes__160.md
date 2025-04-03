@@ -1,0 +1,1 @@
+The Gambling Duties Act 2022 and Gambling Duties Regulation 2022 which consolidates the laws on the levy and collection of duties on lawful betting and lotteries is effective from 29 July 2022. The provisions that pertain to the levy and collection of duties under Private Lotteries Act, Betting and Sweepstake Duties Act and Betting and Sweepstake Duties Order has been repealed.

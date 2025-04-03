@@ -1,0 +1,117 @@
+1. [ホーム](https://www.nta.go.jp/)
+2. [法令等](https://www.nta.go.jp/law/index.htm)
+3. [法令解釈通達](https://www.nta.go.jp/law/tsutatsu/menu.htm)
+4. 法定資料の合計表の様式の制定について（法令解釈通達）
+
+
+課料2-13
+
+課所6-10
+
+課資5-4
+
+課法5-6
+
+平成12年6月1日
+
+最終改正　令和6年6月26日　課総7-19
+
+国税局長　殿
+
+沖縄国税事務所長　殿
+
+国税庁長官
+
+# 法定資料の合計表の様式の制定について（法令解釈通達）
+
+標題のことについては、所得税法、相続税法、租税特別措置法及び内国税の適正な課税の確保を図るための国外送金等に関する法律に規定する法定資料の合計表の様式を別紙のとおり定めたから、今後、これによられたい。
+
+なお、この合計表の様式の制定により、平成10年5月29日付課料2-12外3課共同「法定資料の合計表の様式の全部改正について」（法令解釈通達）を廃止する。
+
+（趣旨）
+
+既住の様式等について所要の整備を図るものである。
+
+* * *
+
+[![Adobe Readerのダウンロードページへ](https://www.nta.go.jp/shared/images/getadobe.gif)](http://get.adobe.com/jp/reader/)
+
+PDF形式のファイルをご覧いただく場合には、Adobe Readerが必要です。Adobe Readerをお持ちでない方は、 [Adobeのダウンロードサイト](http://get.adobe.com/jp/reader/) からダウンロードしてください。
+
+| 様式番号 | 様式 | 容量(KB) |
+| --- | --- | --- |
+| 様式 | 一 | [利子等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/01-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F01-2.pdf) | 209KB |
+| 様式 | 二 | [国外公社債等の利子等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/02-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F02-2.pdf) | 190KB |
+| 様式 | 三 | [配当、剰余金の分配、金銭の分配及び基金利息の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/03-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F03-2.pdf) | 169KB |
+| 様式 | 四 | [国外投資信託等又は国外株式の配当等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/04-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F04-2.pdf) | 204KB |
+| 様式 | 五 | [投資信託等の収益の分配の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/05-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F05-2.pdf) | 161KB |
+| 様式 | 六 | [配当等とみなす金額に関する支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/06-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F06-2.pdf) | 167KB |
+| 様式 | 七 | [給与所得の源泉徴収票等の法定調書合計表(OCR帳票)(PDFファイル)\<br>\<br>(給与所得の源泉徴収票合計表、退職所得の源泉徴収票合計表、報酬、料金、契約金及び賞金の支払調書合計表、不動産の使用料等の支払調書合計表、不動産等の譲受けの対価の支払調書合計表、不動産等の売買又は貸付けのあっせん手数料の支払調書合計表)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/07-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F07-2.pdf) | 303KB |
+| 様式 | 八 | [定期積金の給付補填金等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/08-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F08-2.pdf) | 145KB |
+| 様式 | 九 | [匿名組合契約等の利益の分配の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/09-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F09-2.pdf) | 209KB |
+| 様式 | 十 | [生命保険契約等の一時金の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/10-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F10-2.pdf) | 150KB |
+| 様式 | 十一 | [生命保険契約等の年金の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/11-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F11-2.pdf) | 163KB |
+| 様式 | 十二 | [損害保険契約等の満期返戻金等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/12-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F12-2.pdf) | 147KB |
+| 様式 | 十三 | [損害保険契約等の年金の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/13-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F13-2.pdf) | 161KB |
+| 様式 | 十四 | [保険等代理報酬の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/14-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F14-2.pdf) | 163KB |
+| 様式 | 十五 | [非居住者等に支払われる人的役務提供事業の対価の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/16-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F16-2.pdf) | 149KB |
+| 様式 | 十六 | [非居住者等に支払われる不動産の使用料等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/17-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F17-2.pdf) | 148KB |
+| 様式 | 十七 | [非居住者等に支払われる借入金の利子の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/18-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F18-2.pdf) | 147KB |
+| 様式 | 十八 | [非居住者等に支払われる工業所有権の使用料等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/19-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F19-2.pdf) | 150KB |
+| 様式 | 十九 | [非居住者等に支払われる機械等の使用料の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/20-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F20-2.pdf) | 148KB |
+| 様式 | 二十 | [非居住者等に支払われる給与、報酬、年金及び賞金の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/21-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F21-2.pdf) | 203KB |
+| 様式 | 二十一 | [非居住者等に支払われる不動産の譲受けの対価の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/22-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F22-2.pdf) | 175KB |
+| 様式 | 二十二 | [株式等の譲渡の対価等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/23-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F23-2.pdf) | 165KB |
+| 様式 | 二十三 | [公的年金等の源泉徴収票合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/24-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F24-2.pdf) | 162KB |
+| 様式 | 二十四 | [信託の計算書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/25-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F25-2.pdf) | 167KB |
+| 様式 | 二十五 | [名義人受領の利子所得の調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/26-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F26-2.pdf) | 168KB |
+| 様式 | 二十六 | [名義人受領の配当所得の調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/27-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F27-2.pdf) | 160KB |
+| 様式 | 二十七 | [譲渡性預金の譲渡等に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/28-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F28-2.pdf) | 153KB |
+| 様式 | 二十八 | [生命保険金・共済金受取人別支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/29-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F29-2.pdf) | 156KB |
+| 様式 | 二十九 | [損害(死亡)保険金・共済金受取人別支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/30-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F30-2.pdf) | 144KB |
+| 様式 | 三十 | [退職手当金等受給者別支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/31-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F31-2.pdf) | 155KB |
+| 様式 | 三十一 | [信託に関する受益者別(委託者別)調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/32-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F32-2.pdf) | 163KB |
+| 様式 | 三十二 | [特定新株予約権の付与に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/33-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F33-2.pdf) | 138KB |
+| 様式 | 三十三 | [特定株式等の異動状況に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/34-3.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F34-3.pdf) | 146KB |
+| 様式 | 三十四 | [国外送金等調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/36-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F36-2.pdf) | 145KB |
+| 様式 | 三十五 | [先物取引に関する支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/37-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F37-2.pdf) | 140KB |
+| 様式 | 三十六 | [交付金銭等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/38-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F38-2.pdf) | 147KB |
+| 様式 | 三十七 | [新株予約権の行使に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/39-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F39-2.pdf) | 147KB |
+| 様式 | 三十八 | [特定口座年間取引報告書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/40-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F40-2.pdf) | 145KB |
+| 様式 | 三十九 | [信託受益権の譲渡の対価の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/41-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F41-2.pdf) | 160KB |
+| 様式 | 四十 | [非居住者等に支払われる組合契約に基づく利益の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/42-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F42-2.pdf) | 193KB |
+| 様式 | 四十一 | [有限責任事業組合等に係る組合員所得に関する計算書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/43-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F43-2.pdf) | 172KB |
+| 様式 | 四十二 | [株式無償割当てに関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/44-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F44-2.pdf) | 151KB |
+| 様式 | 四十三 | [名義人受領の株式等の譲渡の対価の調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/45-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F45-2.pdf) | 161KB |
+| 様式 | 四十四 | [上場証券投資信託等の償還金等の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/46-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F46-2.pdf) | 145KB |
+| 様式 | 四十五 | [金地金等の譲渡の対価の支払調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/47-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F47-2.pdf) | 156KB |
+| 様式 | 四十六 | [外国親会社等が国内の役員等に供与等をした経済的利益に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/48-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F48-2.pdf) | 150KB |
+| 様式 | 四十七 | [非課税口座年間取引報告書・未成年者口座年間取引報告書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/49-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F49-2.pdf) | 148KB |
+| 様式 | 四十八 | [教育資金管理契約の終了に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/50-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F50-2.pdf) | 138KB |
+| 様式 | 四十九 | [国外証券移管等調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/51-2.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F51-2.pdf) | 141KB |
+| 様式 | 五十 | [結婚・子育て資金管理契約の終了に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/52.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F52.pdf) | 136KB |
+| 様式 | 五十一 | [保険契約者等の異動に関する調書合計表(PDFファイル)](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/53.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F53.pdf) | 135KB |
+| 様式 | 五十二 | [上場株式等の配当等の支払を受ける大口の個人株主に関する報告書合計表（PDFファイル）](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/0023001-112.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F0023001-112.pdf) | 129KB |
+| 様式 | 五十三 | [国外電子決済手段移転等調書合計表（PDFファイル）](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/pdf/0023006-101.pdf) [![Open this document with ReadSpeaker docReader](https://media.readspeaker.com/images/buttons/listen_icons/icon_16px.gif)](https://docreader.readspeaker.com/docreader/?cid=bydyc&lang=ja_jp&url=https%3A%2F%2Fwww.nta.go.jp%2Flaw%2Ftsutatsu%2Fkobetsu%2Fhotei%2F000601%2Fpdf%2F0023006-101.pdf) | 130KB |
+
+[このページの先頭へ](https://www.nta.go.jp/law/tsutatsu/kobetsu/hotei/000601/01.htm#page-top)
+
+## [法令等](https://www.nta.go.jp/law/index.htm)
+
+### [税法（e-Govの「e-Gov法令検索」へリンク）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0100/)
+
+### [法令解釈通達](https://www.nta.go.jp/law/tsutatsu/menu.htm)
+
+### [その他法令解釈に関する情報](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/sonota.htm)
+
+### [事務運営指針](https://www.nta.go.jp/law/jimu-unei/jimu.htm)
+
+### [国税庁告示](https://www.nta.go.jp/law/kokuji/kokuji.htm)
+
+### [文書回答事例](https://www.nta.go.jp/law/bunshokaito/01.htm)
+
+### [質疑応答事例](https://www.nta.go.jp/law/shitsugi/01.htm)
+
+|     |     |
+| --- | --- |
+|  |  |

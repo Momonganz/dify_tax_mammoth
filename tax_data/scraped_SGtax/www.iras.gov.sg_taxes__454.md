@@ -1,0 +1,1 @@
+![Your property tax, together with other taxes, goes into a common pool to fund the development of Singapore that benefits everyone living in it.](https://www.iras.gov.sg/media/images/default-source/uploadedimages/pages/oie!_iras_propertytax_9-06.jpg?sfvrsn=7d27f84c_0)

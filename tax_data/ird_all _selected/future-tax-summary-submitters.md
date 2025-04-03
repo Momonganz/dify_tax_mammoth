@@ -1,0 +1,196 @@
+[Skip to main content](#main-content-tp)
+
+Tax Policy
+
+[Background material](/publications/2020/2020-tax-working-group/other-documents/background-material "background-material")
+
+14 March 2018 - Future of Tax: Summary for Submitters
+=====================================================
+
+Background material
+
+Issue date: 14 March 2018
+
+Version note:
+
+*   Issued by the Tax Working Group.
+*   ISBN: 978-1-98-853495-4 (Online)
+
+Copyright: © Crown Copyright, Attribution 4.0 International (CC BY 4.0)
+
+This summary paper and the accompanying Submissions Background Paper call for public submissions on a range of issues that the Group considers important to its work. Public submissions will inform the Group's consideration of proposals for improving the tax system.
+
+### The tax system matters to everybody
+
+Few areas of public policy contribute as much to the welfare of New Zealanders as taxation. Taxes allow the Government to fund the vital public services - such as healthcare, education, justice, expenditure on healthy ecosystems, and defence - that underpin our living standards.
+
+The calculation and payment of tax also imposes obligations on New Zealanders and the tax system affects different groups of people in different ways. As a consequence, tax is not just for 'experts' - all New Zealanders have a stake in the design of our tax system.
+
+### About the Tax Working Group
+
+The Government has established the Tax Working Group (the Group) to examine further improvements to the structure, fairness, and balance of the tax system. The Group has also been directed to apply a particular focus on the _future_ to its work, with a view to exploring the major challenges, risks, and opportunities facing the tax system over the next decade and beyond.
+
+The Group is chaired by Hon Sir Michael Cullen and is supported by a secretariat of officials from the Treasury and Inland Revenue. The Chair has also appointed an independent advisor to assist the Group with its deliberations and understanding of the issues.
+
+### We want to hear your views
+
+This summary paper and the accompanying _Submissions Background Paper_ call for public submissions on a range of issues that the Group considers important to its work. Public submissions will inform the Group's consideration of proposals for improving the tax system.
+
+Submitters may submit on other issues, but should be aware of the exclusions in the Group's Terms of Reference. The Terms of Reference are published on the Group's website: [https://taxworkinggroup.govt.nz](https://taxworkinggroup.govt.nz)
+
+To help submitters, the _Submissions Background Paper_ also provides information and context on New Zealand's current tax system and tax concepts.
+
+The Group will provide an interim report on these proposals to the Ministers of Finance and Revenue in September 2018. There will be further opportunities for public comment following the report's publication.
+
+In the spirit of openness and inclusion, the Group would now like to encourage all New Zealanders to share their own views about what is working - and what is not - in the current tax system.
+
+### How to make a submission
+
+Submissions should include a brief summary of major points and recommendations. They should also indicate whether it would be acceptable for the Group and the secretariat to contact those making the submission to discuss the points raised, if required.
+
+Submissions should be made by 30 April 2018 and can be emailed to [\[email protected\]](/cdn-cgi/l/email-protection#84f7f1e6e9edf7f7edebeaf7c4f0e5fcf3ebf6efedeae3e3f6ebf1f4aae3ebf2f0aaeafe)
+ or submitted online at [https://taxworkinggroup.govt.nz](/publications/2020/2020-tax-working-group)
+
+Alternatively, submissions may be addressed to:
+
+Tax Working Group Secretariat  
+PO Box 3724  
+Wellington 6140  
+New Zealand
+
+Submissions will be proactively released and only redacted or withheld on the grounds of privacy, commercial sensitivity, or any other reason under the Official Information Act. Those making a submission who consider that there is any part of it that should properly be withheld under the Act should clearly indicate this.
+
+In addition to seeking written submissions, the Group intends to discuss the issues raised in this paper and the _Submissions Background Paper_ with key interested parties.
+
+### Challenges, risks, and opportunities
+
+Tax systems have always had to evolve alongside changing practices in business, technology, and society. However, technology today - particularly in the area of digital communications - is having a radical impact on the way businesses operate, both within and across national borders.
+
+Within this context, the Group has identified eight broad challenges, risks, and opportunities that will affect the tax system over the coming decade and beyond:
+
+*   changing demographics, particularly the aging population and the fiscal pressures that will bring;
+*   te ao Māori and the role of the Māori economy in lifting New Zealand's overall living standards;
+*   the changing nature of work;
+*   technological change and the different business models that will bring;
+*   falling company tax rates around the world;
+*   environmental challenges, including climate change and loss of ecosystem services and species;
+*   growing concern about inequality; and
+*   the impacts of globalisation and changes in its patterns.
+
+Our tax system will need to be sufficiently robust to deal with these challenges, and sufficiently nimble to take advantage of the opportunities. There will also be other shocks and surprises that we have not considered and cannot foresee.
+
+The Group would therefore like to hear your views on how these challenges and opportunities might affect the tax system, and, equally importantly, whether you consider there are any other key issues that policymakers will need to prepare for.
+
+### The purposes and principles of a good tax system
+
+Even as the tax system evolves in response to these risks and opportunities, it will still need to fulfil the central purpose of tax policy: to provide sufficient revenue to the Government to fund the provision of public goods, services and transfers.
+
+But the design of the tax system will also have broader impacts on the wellbeing of New Zealanders across the social, economic, and environmental dimensions. The Group intends to be mindful of these impacts as it develops recommendations for reform.
+
+In recognition of the broad basis of wellbeing, the Treasury uses the _Living Standards Framework_ to incorporate a more comprehensive range of factors into its analysis. The Living Standards Framework identifies four 'capital stocks' that are crucial to intergenerational wellbeing:
+
+*   Financial and physical capital, such as roads, factories, and financial assets.
+*   Human capital, such as skills and knowledge.
+*   Social capital, such as trust, cultural achievements and community connections.
+*   Natural capital, such as soil and water.
+
+The Living Standards Framework encourages us to consider how policy change is likely to impact each of the four capitals, and broadens our assessment beyond strictly economic considerations.
+
+The established criteria that have been used in past tax reviews (both domestically and overseas) are also useful when considering the costs and benefits of various reforms:
+
+*   Efficiency: minimise impediments to economic growth and avoid distortions (biases) to the use of resources.
+*   Equity and fairness: achieve fairness including through 'horizontal equity' (the same treatment for people in the same circumstances) and 'vertical equity' (higher tax obligations on those with greater economic capacity to pay). Procedural fairness is also important for a tax system.
+*   Revenue integrity: minimise opportunities for tax avoidance and arbitrage.
+*   Fiscal adequacy: raise sufficient revenue for the Government's requirements.
+*   Compliance and administration costs: minimise the costs of compliance and administration, and give taxpayers as much certainty as possible.
+*   Coherence: ensure that individual reform options make sense in the context of the entire tax system.
+
+As you read this document, the Group would encourage you to consider which principles and frameworks are most important to you in evaluating the tax system, and to test your own ideas and proposals against them.
+
+### The design of the current tax system
+
+New Zealand currently has a 'broad-based, low-rate' tax system. The Government raises about 90% of its tax revenue from three tax bases:[\[1\]](#note1)
+
+*   Individual income tax
+*   Goods and services tax (GST)
+*   Company income tax.
+
+There are very few exemptions to these three taxes (which is why our tax system is described as 'broad-based'). The benefit of having a broad base is that it allows the Government to raise substantial revenue with relatively low rates of taxation. Overall, the current level of tax revenue, including local government rates, is equivalent to 32% of gross domestic product (GDP), which is slightly below the OECD average of 34% of GDP.
+
+New Zealand's tax system is distinct in other ways. Unlike many other countries, New Zealand does not generally use the tax system to deliberately modify behaviour - with the notable exceptions of alcohol and tobacco excise taxes, which are intended to discourage drinking and smoking.
+
+New Zealand's approach to the taxation of retirement savings is also distinct. The tax system does not offer large concessions for retirement savings; retirement savings contributions are taxed when they are made and as investment income is earned, rather than when the savings are drawn down in retirement.
+
+The Group's work provides an opportunity to examine whether a broad-based, low rate system remains fit-for-purpose, and whether there is a case to depart from the internationally distinctive approaches to behavioural taxes and retirement savings. It is also an opportunity to explore whether there is a case to broaden the base further, for example with new taxes such as a comprehensive capital gains tax (excluding the family home).
+
+### The results of the current tax system
+
+#### Revenue outcomes
+
+New Zealand's broad-based, low-rate system succeeds at raising relatively high amounts of revenue with relatively low rates. Compared with other OECD countries:
+
+*   New Zealand has one of the lowest top personal tax rates, but the proportion of income tax to GDP is high.
+*   New Zealand's company tax rate is relatively high, and the proportion of company tax revenue to GDP is high.
+*   New Zealand's GST rate is relatively low, but the proportion of GST revenue to GDP is high.
+
+New Zealand's GST is one of the simplest and most comprehensive in the world. There are two main exemptions - for financial services, and for low-value imported goods.[\[2\]](#note2)
+ These exemptions reflect past judgements that it would be too administratively complex to include financial services and low-value imported goods in the tax.
+
+#### Distributional outcomes
+
+Higher-income households play an important role in funding the Government. According to established income measures, the share of all income tax paid increases as household income increases. Households in the top income decile (that is, the 10% of households with the highest incomes) pay around 35% of all income tax, whereas households in the lowest five income deciles (that is, 50% of households) collectively pay less than 20% of all income tax.
+
+The tax and transfer system (_transfers_ are payments like Jobseeker Support and New Zealand Superannuation) reduces income inequality, although by less than most of our comparator countries. New Zealand's tax and transfer system provides a similar reduction in measured income inequality to the Canadian system, but a smaller reduction than Australia or the OECD average.
+
+Income inequality in New Zealand rose rapidly in the late 1980s to mid 1990s, but has been broadly stable in New Zealand since then. Information about wealth is less comprehensive than for income, but the information we do have indicates that wealth is distributed much less equally than income.
+
+#### Savings
+
+There is some debate about the influence of our tax settings on the rate and composition of saving in New Zealand. In a broad-based, low-rate tax system, there should ideally be no difference in marginal effective tax rates between different types of investments. Relative to other countries, New Zealand's marginal effective tax rates are quite uniform, but it may be possible to achieve more consistency in the treatment of different types of investments.
+
+#### Overall outcomes
+
+The Group is keen to hear public views on the overall performance of the tax system, and has a particular interest in assessments of the fairness and balance of our tax settings.
+
+### Thinking outside the current system
+
+New Zealand has reduced its use of other tax bases under the broad-based, low-rate tax system. Previous reforms have eliminated the sales tax, excess retention tax, land tax, estate duty, stamp duty, gift duty and cheque duty. New Zealand also does not levy financial transaction taxes, wealth taxes, or a general capital gains tax. The Group will examine whether there is a case to introduce any additional taxes, particularly in light of growing international debate about income and wealth inequality.
+
+The Group also acknowledges public concerns about the tax practices of some multinational corporations, which exploit inconsistencies and mismatches in domestic tax rules in order pay little or no tax anywhere in the world. In this regard, New Zealand is currently implementing a suite of measures - developed in cooperation with other OECD countries - that will further strengthen the rules for taxing income from investment in New Zealand.
+
+But we also need to consider the taxation of income from the digital economy. Internet-based firms can trade with customers over the internet without having a physical presence in the customer's country that is necessary for income tax to be charged under present rules. This issue is becoming increasingly important as the digital economy accounts for a greater proportion of business activity.
+
+The Group invites comment on what the public sees as the most significant inconsistencies in the current tax system, and which of these should be addressed most urgently.
+
+### Specific challenges
+
+In addition to the issues discussed above, the Government has directed the Group to advise on a number of specific challenges:
+
+*   How would a _capital gains tax_ (excluding the family home) or a _land tax_ (excluding the land under the family home) affect housing affordability, and would these taxes improve the current system for _capital income_ taxation? Relevant considerations will include: the impacts of these taxes on property-owners and renters; the ease of administering these taxes; the interaction of these taxes with the rest of the tax system; the extent to which the tax will incentivise productive investment as opposed to speculation; and the possibility of allowing for reductions in other taxes as a result of introducing them.
+*   Is there a case to introduce a _progressive company tax_ (i.e. lower company tax rates for smaller businesses) in order to support small business?
+*   Is there a case to make greater use of _environmental taxation_ to improve environmental outcomes and diversify the tax base?
+*   Could the Government assist low-income people by introducing _GST exemptions_ for certain goods and services?
+
+The Group seeks public views on all of these matters. It also invites submissions on the question of which taxes should be lowered if new sources of tax revenue can be found (keeping in mind the guidance in the Terms of Reference for tax revenue to remain at approximately 30% of GDP).
+
+### Concluding thoughts
+
+New Zealand's tax system has many strengths, but it cannot stand still. We are living in an era of rapid technological change, rising economic uncertainty, and mounting environmental challenges. Our tax system must be robust to these challenges, even as it takes advantage of the administrative and other opportunities afforded by innovation.
+
+However, it is important that we maintain the trust and confidence of all New Zealanders in the integrity of the tax system. In a democracy such as ours, the ability of the Government to raise revenue rests ultimately on the consent and acceptance of all New Zealanders.
+
+In order to maintain this acceptance, and fulfil the trust of New Zealanders, we must ensure that the tax system is fair, balanced, and administered well. This is the goal the Group is working towards. Your submissions will help us achieve it.
+
+### Notes
+
+*   [\[1\]](#refNo1)
+     This figure excludes local government rates, which are sometimes included in measures of total tax revenue for ease of comparison with other OECD countries.
+*   [\[2\]](#refNo2)
+     Long-term residential accommodation is also not subject to GST, but applying GST to rent would raise various practical and fairness issues.
+
+### Formats
+
+[Future of Tax: Summary for Submitters](/-/media/project/ir/tp/publications/2020/2020-tax-working-group/other-documents/background-material/future-tax-summary-submitters/twg-submitters-summary-mar18-pdf.pdf?sc_lang=en&modified=20200910082018&hash=3904E569B7F2B7861360B673B0EEC581)
+ (PDF 199 KB)
+
+Last updated: 13 March 2018

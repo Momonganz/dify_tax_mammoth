@@ -1,0 +1,16 @@
+This page outlines the tax treatment of different subscriptions paid by the employer. It categorises into taxable and non-taxable, specifying conditions under which each type falls into these categories.
+
+On this page:
+
+## Tax Treatment of Subscriptions Paid by Employer (Summary Table)
+
+| Nature | Taxable/ Not taxable |
+| --- | --- |
+| **Nature** <br>**1** | **Nature** <br>Club | **Taxable/ Not taxable** <br>Portion for personal use is **taxable** if facilities are used for both business and personal purposes. <br>Entrance fee paid by the employer is **taxable** if a club membership is granted as personal membership. |
+| **Nature** <br>**2** | **Nature** <br>Personal membership to gym / fitness centre / sports club / union | **Taxable/ Not taxable** <br>Taxable |
+| **Nature** <br>**3** | **Nature** <br>Handphone / Internet - full or partial reimbursement | **Taxable/ Not taxable** <br>Not taxable if entirely used for work.<br>For private usage, the employer can either:<br>1. Report the amount attributable for private usage in Form IR8A; or<br>2. Report the full subscription amount.<br>Employee can claim expenses incurred for work purposes when filing his tax return. |
+| **Nature** <br>**4** | **Nature** <br>Handphone allowance (fixed monthly payment made) | **Taxable/ Not taxable** <br>Taxable<br>Employee can claim expenses incurred for work purposes when filing his tax return. |
+| **Nature** <br>**5** | **Nature** <br>Cable for TV | **Taxable/ Not taxable** <br>Taxable |
+| **Nature** <br>**6** | **Nature** <br>a) Subscription fee paid to professional body whereby the membership is just to facilitate the employee's access to professional updates, knowledge and networking.<br>E.g., membership subscription fee paid to Singapore Chartered Tax Professionals Limited (SCTP), The Institute of Singapore Chartered Accountants (ISCA), Singapore Medical Association (SMA), Singapore Academy of Law (SAL), The Institution of Engineers, Singapore<br> (IES) and etc.<br>b) Subscription, registration or application fee for the practising certificate or licence that is necessary for the employee to render employment services to the employer.<br>E.g., registration fee paid to ACRA as a public accountant, the Singapore Medical Council (SMC) as a registered doctor, the Professional Engineers Board (PEB) as a professional engineer. | **Taxable/ Not taxable** <br>a) Taxable<br>Employee can claim the membership subscription as a deductible expense against his income when filing his income tax return.<br>b) Not taxable<br>Employee cannot claim the fee as a deductible expense against his income when filing his tax return. |
+
+[Pages**List of Benefits-in-Kind Granted Administrative Concession or Exempt from Income Tax**](https://www.iras.gov.sg/taxes/individual-income-tax/employers/understanding-the-tax-treatment/list-of-benefits-in-kind-granted-administrative-concession-or-exempt-from-income-tax)[Pages**Social and Recreational Facilities**](https://www.iras.gov.sg/taxes/individual-income-tax/employers/understanding-the-tax-treatment/social-and-recreational-facilities)

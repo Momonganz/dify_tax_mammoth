@@ -1,0 +1,460 @@
+[Skip to main content](#main-content-tp)
+
+Tax Policy
+
+[Base erosion and profit shifting Policy reports Cabinet papers and regulatory impact assessments](/publications/2017/2017-other-beps "2017-other-beps")
+
+18 - RIA: BEPS – transfer pricing and permanent establishment avoidance rules
+=============================================================================
+
+|     |     |
+| --- | --- |
+| Document number | 18  |
+| Date | 13 July 2017 |
+| Type | Regulatory impact assessment |
+| Title | BEPS – transfer pricing and permanent establishment avoidance rules |
+| Description | Regulatory impact assessment on proposals for transfer pricing and permanent establishment avoidance rules. |
+| Downloads | [PDF](/-/media/project/ir/tp/publications/2017/2017-other-beps/index-beps-documents/2017-other-beps-18-ria-transfer-pricing-july-2017-pdf.pdf?sc_lang=en&modified=20200910082430&hash=00C1358A4EE36B5C248E3A86ECDFFDDF)<br> (161 KB; 21 pages)  <br>[PDF - Signed](/-/media/project/ir/tp/publications/2017/2017-other-beps/index-beps-documents/2017-other-beps-18-ria-transfer-pricing-july-2017-signed-pdf.pdf?sc_lang=en&modified=20200910082433&hash=FA6E3412E5653399E1F1AAB33A15DFAD)<br> (1.3 MB; 21 pages)  <br>[DOC](/-/media/project/ir/tp/publications/2017/2017-other-beps/index-beps-documents/2017-other-beps-18-ria-transfer-pricing-july-2017-doc.doc?sc_lang=en&modified=20200910082435&hash=ECEE655CA0AE279142EFFDAFBE3E54B8)<br> (180 KB; 21 pages) |
+| Contents | *   **[Coversheet](#coversheet)<br>    **<br>    *   [Summary: Problem and proposed approach](#summary)<br>        <br>    *   [Section B: Summary impacts: benefits and costs](#section-b)<br>        <br>    *   [Section C: Evidence certainty and quality assurance](#section-c)<br>        <br>*   **[Impact statement](#statement)<br>    **<br>    *   [Section 1: General information](#section-1)<br>        <br>    *   [Section 2: Problem definition and objectives](#section-2)<br>        <br>    *   [Section 3: Options identification](#section-3)<br>        <br>    *   [Section 4: Impact analysis](#section-4)<br>        <br>    *   [Section 5: Conclusions](#section-5)<br>        <br>    *   [Section 6: Implementation and operation](#section-6)<br>        <br>    *   [Section 7: Monitoring, evaluation and review](#section-7) |
+
+* * *
+
+### COVERSHEET: BEPS – STRENGTHENING OUR INTEREST LIMITATION RULES
+
+* * *
+
+|     |     |
+| --- | --- |
+| Advising agencies | The Treasury and Inland Revenue |
+| Decision sought | The analysis and advice has been produced for the purpose of informing final tax policy decisions to be taken by Cabinet |
+| Proposing Ministers | Steven Joyce (Finance) and Hon Judith Collins (Revenue) |
+
+### SUMMARY: PROBLEM AND PROPOSED APPROACH
+
+### Problem Definition
+
+#### What problem or opportunity does this proposal seek to address? Why is Government intervention required?
+
+There are international concerns about multinationals not paying their fair share of tax. This is because some multinationals use base erosion and profit shifting (BEPS) strategies to report low taxable profits in New Zealand and other countries in which they operate. These BEPS strategies include arrangements between related parties which shift profits out of New Zealand (usually into a lower taxed jurisdiction). They also include arrangements which are designed to ensure New Zealand is not able to tax any income from sales here despite there being a physical presence in New Zealand in relation to the sales. These particular BEPS strategies are known as transfer pricing and permanent establishment (PE) avoidance. Finally, Inland Revenue faces administrative difficulties in investigating large multinationals.
+
+### Proposed Approach
+
+#### How will Government intervention work to bring about the desired change? How is this the best option?
+
+The proposed approach is to adopt the package of measures outlined in the Government discussion document _BEPS – transfer pricing and permanent establishment avoidance_ (March 2017), with some changes resulting from consultation, as the measures will:
+
+*   ensure that multinationals cannot structure their affairs for the purpose of avoiding a taxable presence in New Zealand;
+*   stop companies from shifting profits out of the New Zealand tax base through artificial arrangements; and
+*   make it easier for Inland Revenue to investigate such multinationals.
+
+### SECTION B: SUMMARY IMPACTS: BENEFITS AND COSTS
+
+#### Who are the main expected beneficiaries and what is the nature of the expected benefit?
+
+The Government will benefit by receiving an additional $50 million of revenue per annum. Compliant businesses will benefit because the multinationals involved in transfer pricing and PE avoidance activities will no longer be able to achieve a competitive advantage. Also, the measures will support voluntary compliance by protecting the integrity of the tax system.
+
+#### Where do the costs fall?
+
+Multinationals which currently engage in BEPS activities will face a medium level of compliance costs. These taxpayers may choose to transition into more tax compliant agreements which will require restructuring costs; or they may apply for advance pricing agreements (APAs). However, the majority of multinationals are compliant and should not be materially affected by the proposals.
+
+#### What are the likely risks and unintended impacts, how significant are they and how will they be minimised or mitigated?
+
+There is a risk that foreign companies investing in New Zealand will view the proposals as complex and onerous, incentivising them to remove their existing personnel from New Zealand or to cease operating in New Zealand altogether. However, most of the affected foreign companies are dependent on having personnel in New Zealand to arrange their sales. Without personnel on the ground, they would not be able to service their New Zealand market. It is also unlikely that they would cease to operate in New Zealand altogether.
+
+#### Identify any significant incompatibility with the Government’s ‘Expectations for the design of regulatory systems’.
+
+There is no incompatibility between this regulatory proposal and the Government’s ‘Expectations for the design of regulatory systems’.
+
+### SECTION C: EVIDENCE CERTAINTY AND QUALITY ASSURANCE
+
+#### Agency rating of evidence certainty?
+
+There is limited certainty of evidence in relation to the problem of transfer pricing and PE avoidance arrangements. This is because such activities are often not directly observable in the absence of specific audit activity. However, Inland Revenue is aware of about 16 cases involved in these types of BEPS arrangements which are currently under audit. While there are only 20 New Zealand-owned multinationals that earn over the threshold for some of the main proposals (over EUR €750 million of consolidated global revenue), the European Union (EU) has estimated that there may be up to 6,000 multinationals globally that do. However, we do not know how many of these global multinationals operate in New Zealand.
+
+_To be completed by quality assurers:_
+
+#### Quality Assurance Reviewing Agency:
+
+Inland Revenue
+
+#### Quality Assurance Assessment:
+
+The Quality Assurance reviewer at Inland Revenue has reviewed the _BEPS – transfer pricing and permanent establishment avoidance rules_ Regulatory Impact Assessment prepared by Inland Revenue and associated supporting material and considers that the information and analysis summarised in the Regulatory Impact Assessment meets the Quality Assurance criteria.
+
+#### Reviewer Comments and Recommendations:
+
+The reviewer’s comments on earlier versions of the Regulatory Impact Assessment have been incorporated into the final version.
+
+* * *
+
+### IMPACT STATEMENT: BEPS – TRANSFER PRICING AND PERMANENT ESTABLISHMENT AVOIDANCE RULES
+
+* * *
+
+### SECTION 1: GENERAL INFORMATION
+
+* * *
+
+### Purpose
+
+_Inland Revenue_ is solely responsible for the analysis and advice set out in this Regulatory Impact Statement. This analysis and advice has been produced for the purpose of informing final tax policy decisions to be taken by Cabinet.
+
+### Key Limitations or Constraints on Analysis
+
+#### Evidence of the problem
+
+Our analysis has been limited somewhat by our inability to assess the exact size of the transfer pricing and PE avoidance structures in New Zealand. In common with BEPS activities generally, transfer pricing and PE avoidance is difficult to quantify as tax avoidance is often not directly observable. We consider that, while most multinationals are compliant, there is a minority that engage in transfer pricing and PE avoidance. Inland Revenue is aware of about 16 cases of transfer pricing and PE avoidance currently under audit that collectively involve about $100 million per year of disputed tax. These cases show our existing rules are vulnerable and Inland Revenue considers that the use of avoidance arrangements will increase if the weaknesses in the current rules are not addressed. Furthermore, as New Zealand endorses the Organisation for Economic Co-operation and Development’s (OECD) _Action Plan on Base Erosion and Profit Shifting_ (BEPS Action Plan), there is an expectation that we will take action against BEPS and implement a number of the OECD’s recommendations.
+
+#### Range of options considered
+
+Our analysis of options has been primarily constrained by New Zealand’s double tax agreements (DTAs). Under its DTAs, New Zealand can only tax non-residents on business profits if they have a PE in New Zealand. We have also been somewhat constrained by the fact that New Zealand endorses the OECD’s transfer pricing guidelines.
+
+#### Assumptions underpinning impact analysis
+
+The estimated impact of the options is dependent on the behavioural response of taxpayers to the introduction of some form of transfer pricing and PE avoidance arrangement rules. Taxpayers may rearrange their affairs to fall outside the scope of any proposed rules, which will have flow-on effects as to efficiency, compliance costs, and revenue implications. Beyond anecdotal information learned through consultation, it is difficult to assess the extent and nature of the behavioural response.
+
+### Responsible Manager (signature and date):
+
+Carmel Peters  
+Policy Manager, Policy and Strategy  
+Inland Revenue
+
+13 July 2017
+
+* * *
+
+### SECTION 2: PROBLEM DEFINITION AND OBJECTIVES
+
+* * *
+
+### 2.1 What is the context within which action is proposed?
+
+#### BEPS
+
+BEPS refers to the aggressive tax planning strategies used by some multinationals to pay little or no tax anywhere in the world. This outcome is achieved when multinationals exploit gaps and mismatches in countries’ domestic tax rules to avoid tax. BEPS strategies distort investment decisions, allow multinationals to benefit from unintended competitive advantages over more compliant or domestic companies, and result in the loss of substantial corporate tax revenue. More fundamentally, the perceived unfairness resulting from BEPS jeopardises citizens’ trust in the integrity of the tax system as a whole.
+
+In 2013, the OECD published its BEPS Action Plan which identified actions needed to address BEPS (including transfer pricing and PE avoidance), set deadlines to implement these actions, and identified the resources needed and the methodology to implement these actions. In 2015, the OECD released its final package of recommended actions for countries to implement to counter BEPS.
+
+If no action is taken to counter transfer pricing and PE avoidance arrangements, multinationals that are currently engaging in these types of arrangements will be able to continue, and the number of these types of avoidance cases will continue to increase.
+
+#### New Zealand’s BEPS work
+
+New Zealand is a supporter of the OECD/G20 BEPS project to address international avoidance and is advancing a number of the OECD/G20 BEPS recommendations.
+
+In September 2016, the Government released the BEPS discussion document _Addressing hybrid mismatch arrangements_. In March 2017, the Government released two further discussion documents: _BEPS – Strengthening our interest limitation rules_; and _BEPS – Transfer pricing and permanent establishment avoidance_; along with the officials’ issues paper _New Zealand’s implementation of the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS_.
+
+The _BEPS – Transfer pricing and permanent establishment avoidance_ discussion document consulted on the Government’s proposal to introduce a new set of tax rules to counter BEPS activities involving transfer pricing and PE avoidance. Many of the proposals follow the OECD’s BEPS Action Plan recommendations (such as updating our transfer pricing legislation to align with the OECD’s new transfer pricing guidelines).
+
+### 2.2 What regulatory system, or systems, are already in place?
+
+#### New Zealand’s tax system
+
+New Zealand has a broad-base, low-rate (BBLR) taxation framework. This means that tax bases are broad and tax rates are kept as low as possible while remaining consistent with the Government’s distributional objectives. The BBLR framework ensures the tax system is not generally used to deliver incentives or encourage particular behaviours.
+
+Having a consistent tax framework such as BBLR does not mean that tax changes are unnecessary. An ongoing policy challenge is to ensure that our tax rules are up to date and result in multinational firms paying a fair and efficient amount of tax in New Zealand. Base protection measures, such as transfer pricing and PE rules, are important to protect the tax base and ensure that New Zealand collects an appropriate amount of tax on non-resident investment.
+
+At the same time, it is important that New Zealand continues to be a good place to base a business and that tax does not get in the way of this happening. New Zealand relies heavily on foreign direct investment to fund domestic investment and, as such, the Government is committed to ensuring New Zealand remains an attractive place for non-residents to invest.
+
+#### New Zealand’s PE rules
+
+New Zealand’s ability to tax non-residents on their New Zealand sales income is determined by our domestic tax rules in conjunction with our DTAs. Under our DTAs, New Zealand is generally prevented from taxing a non-resident’s business income unless the non-resident has a PE in New Zealand. This is the case even if that income has a source in New Zealand under our domestic legislation.
+
+In general, New Zealand can only tax a non-resident multinational group on its sales here if both of the following conditions are met:
+
+*   The multinational group has a sufficient taxable presence in New Zealand. This means the group must operate in New Zealand either through a New Zealand-resident subsidiary (in which case the subsidiary is taxable on its income) or through a PE of a non-resident group member. A PE is basically a place of business of the non-resident, but it also includes an agent acting for the non-resident.
+*   Where a multinational operates in New Zealand through a PE of a non-resident group member, some of the non-resident’s net profits from its sales can be attributed to its taxable presence here. This involves determining:
+    *   The amount of the non-resident’s gross sales income which can be attributed to its PE here; and
+    *   The amount of the expenses which can be deducted from that income to determine the net taxable profits in New Zealand.
+
+The non-resident must also have a sufficient taxable presence in New Zealand (if a DTA applies) for New Zealand to charge non-resident withholding tax on certain payments by the non-resident (such as a royalty) to other parties in connection with the New Zealand sales income.
+
+#### New Zealand’s transfer pricing rules
+
+“Transfer pricing” refers to the use of cross-border payments between associated entities such as a parent and a subsidiary. Transfer pricing rules are therefore concerned with determining the conditions, including the price (and therefore the tax liability), for transactions within a multinational group resulting in the allocation of profits to group companies in different jurisdictions.
+
+New Zealand’s transfer pricing legislation was first introduced in 1995 and is largely focused on the legal form of the transaction and adjusting the consideration that is paid to an arm’s length amount (which can be zero). Due to the increased complexity and tax planning of cross-border intra-group trade over the last 22 years, New Zealand’s existing transfer pricing rules are unable to adequately address some types of profit shifting.
+
+#### General anti-avoidance rule (GAAR)
+
+New Zealand also has a general anti-avoidance rule (GAAR) which effectively overrides other provisions of the tax legislation to deny the tax benefits of an arrangement when a more than incidental purpose of the arrangement is to obtain a tax benefit. However, the GAAR is unlikely to be effective at addressing all transfer pricing and PE avoidance structures on its own.
+
+### 2.3 What is the policy problem or opportunity?
+
+#### The problem of transfer pricing and PE avoidance
+
+Some multinational companies operating in New Zealand exploit deficiencies in the current international tax system (both in New Zealand and abroad) by using transfer pricing and PE avoidance strategies to report low taxable profits in New Zealand despite carrying out significant economic activity here. Transfer pricing and PE avoidance can lead to unfairness and the substitution of low-taxed investors for tax-paying investors. This has the potential to reduce national income while doing little or nothing to reduce the overall pre-tax cost of capital to New Zealand or increase the overall level of investment. It also distorts the allocation of investment by favouring foreign investors who set out to game the system.
+
+##### Transfer pricing avoidance
+
+One of the major strategies used by multinationals to shift profits out of New Zealand and reduce their worldwide tax bills is transfer pricing. Related parties may agree to pay an artificially high or low price for goods, services, funding, or intangibles compared to the “arm’s length” price or conditions that an unrelated third party would be willing to pay or accept under a similar transaction. By manipulating these transfer prices or conditions, profits can be shifted out of New Zealand and into a lower-taxed country or entity.
+
+##### PE avoidance
+
+Some multinationals reduce their New Zealand tax liability by structuring their affairs to avoid a PE arising, despite carrying on significant activity here.
+
+#### Impacted population
+
+These rules affect only taxpayers with foreign connections – that is, foreign-owned New Zealand taxpayers, and New Zealand-owned taxpayers with foreign operations. The impacted population is therefore predominately large companies.
+
+Many of the proposed measures will apply only to multinational groups with over EUR €750 million of consolidated global revenue. While there are only 20 New Zealand-owned multinationals that earn this much, the EU has estimated that there may be up to 6,000 multinationals globally that do. However, we do not know how many of these global multinationals operate in New Zealand.
+
+#### Transfer pricing and PE arrangements in New Zealand
+
+Inland Revenue is aware of about 16 cases of transfer pricing and PE avoidance currently under audit that collectively involve about $100 million per year of disputed tax. These cases show our existing rules are vulnerable and Inland Revenue considers that the use of avoidance arrangements will increase if the weaknesses in the current rules are not strengthened. Furthermore, as New Zealand endorses the OECD’s BEPS Action Plan, there is an expectation that we will take action against BEPS and implement a number of the OECD’s recommendations.
+
+Inland Revenue’s judgement is that the transfer pricing and PE proposals can expect to add $50 million a year of revenue to the forecasts. This $50 million per year estimate relates to the fact that the proposals will make it more difficult to avoid tax under the transfer pricing and PE rules and easier to find and assess any remaining avoidance cases. This should reduce future avoidance arrangements and free up investigator resources. The changes will also result in more revenue being able to be assessed from any multinationals which continue to use transfer pricing or PE avoidance arrangements.
+
+### 2.4 Are there any constraints on the scope for decision making?
+
+Our analysis of options has been primarily constrained by New Zealand’s DTAs. Under our DTAs, New Zealand can only tax non-residents on business profits if they have a PE in New Zealand. The OECD guidance permits departure from this only in respect of tax avoidance. We have also been somewhat constrained by the fact that New Zealand endorses the OECD’s transfer pricing guidelines.
+
+### 2.5 What do stakeholders think?
+
+#### Submissions on the discussion document
+
+The Government received 16 submissions on the discussion document from key stakeholders.[\[1\]](#footnote1)
+ We also met with six of the main submitters to discuss their submissions in more detail.
+
+Many submitters strongly opposed the proposals that increased Inland Revenue’s power to investigate large multinationals. Others argued that the proposals could have a detrimental effect on New Zealand being an attractive investment destination and should not be implemented.
+
+However, most submitters accepted the need for measures to address the transfer pricing and PE avoidance issues identified in the discussion document. Some submitters even welcomed the proposals as a positive step by the Government to ensure multinationals pay their fair share of tax.
+
+#### Further consultation
+
+Following Cabinet decisions in July 2017, we are planning to undertake further public consultation on outstanding policy issues, technical design details, and an exposure draft of selected parts of the planned BEPS bill.
+
+* * *
+
+### SECTION 3: OPTIONS IDENTIFICATION
+
+* * *
+
+### 3.1 What options are available to address the problem?
+
+Officials have identified four mutually exclusive options to address the problem:
+
+*   Option 1 – Status quo
+*   Option 2 – MLI and the OECD’s transfer pricing guidelines
+*   Option 3 – Diverted profit tax
+*   Option 4 – Discussion document proposals (as amended through consultation)
+
+Option 1 is the only non-regulatory option. The other options involve implementing an international agreement or changing New Zealand tax legislation.
+
+#### Option 1: Status quo
+
+This option would retain the existing tax rules for multinationals (as described in the sections above). Under this option, Inland Revenue would continue trying to enforce the existing rules and/or apply the GAAR to challenge tax avoidance arrangements.
+
+#### Option 2: MLI and the OECD’s transfer pricing guidelines
+
+Option 2 is to rely on the combination of the _Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting_ (MLI)[\[2\]](#footnote2)
+ and the OECD’s transfer pricing guidelines without amending our domestic law. Under this option, any PE avoidance issues would be addressed under the OECD’s new PE definition in the MLI, and any transfer pricing issues would be addressed by applying the OECD’s new transfer pricing guidelines.
+
+#### Option 3: Diverted profits tax
+
+Option 3 is to adopt a diverted profits tax (DPT). A DPT is a separate tax on the “diverted profits” that arise from transfer pricing and PE avoidance. It is levied at a penal rate, compared with income tax, and has greatly enhanced assessment and collection powers. Both the UK and Australia have already implemented a DPT to target multinationals engaging in BEPS strategies. DPTs are intended to incentivise taxpayers to pay the correct amount of income tax under the normal rules rather than to raise revenue by themselves.
+
+#### Option 4: Discussion document proposals (as amended through consultation)
+
+This option involves adopting the package of measures proposed in the discussion document, with some changes resulting from consultation. The discussion document proposals have taken certain features of a DPT and combined them with the OECD’s BEPS measures and some domestic law amendments to produce a package of measures that is tailored for the New Zealand environment. The intention is that this approach would be as effective as a DPT in addressing transfer pricing and PE avoidance in New Zealand, but it would do so within our current frameworks and with fewer drawbacks. Under this option, we would introduce:
+
+*   an anti-avoidance rule that will prevent multinationals from structuring their operations to avoid having a PE (a taxable presence) in New Zealand where one exists in substance;
+*   stronger transfer pricing rules which will adjust related party transactions if they do not align with the actual substance of the multinational’s economic activities; shift the burden of proof onto the taxpayer (rather than Inland Revenue) for proving that their related party dealings are consistent with those that would be agreed by third parties operating at arm’s length; and extend the time bar for transfer pricing from four years to seven years;
+*   stronger “source rules” so New Zealand has a greater ability to tax New Zealand-sourced income; and
+*   a range of administrative measures that will strengthen Inland Revenue’s powers to investigate large multinationals (with at least EUR €750m of global revenues) that do not cooperate with a tax investigation (such as allowing Inland Revenue to request information that is held by an offshore group member).
+
+#### Consultation
+
+These four options were identified prior to consultation. The discussion document proposed the adoption of a package of reforms combining elements of a DPT with the OECD’s recommendations and some domestic law amendments (option 4). The discussion document discussed the status quo (option 1) and the DPT (option 3). Some submitters proposed that the better approach would be to sign the MLI and apply the OECD’s transfer pricing guidelines without amending our domestic law (option 2).
+
+In response to consultation we have refined the proposals so they are better targeted at BEPS arrangements with less compliance costs and fewer unintended impacts on compliant taxpayers engaging in ordinary, commercial dealings.
+
+Significant changes made as a result of consultation were:
+
+*   More narrowly targeting the PE avoidance rule at avoidance arrangements (we will consult further on how best to achieve this).
+*   Clarifying that the test for reconstructing an arrangement would be based on the corresponding test in the OECD’s transfer pricing guidelines.
+*   The PE avoidance rule will only apply where an applicable DTA does not include the OECD’s widened PE definition (as in cases where the OECD’s new PE definition is included, the proposed PE avoidance rule will be unnecessary).
+*   The anti-avoidance source rule will be more narrowly targeted at the existing issues Inland Revenue has identified with the source rules.
+*   We have decided not to proceed with the proposal to require multinationals to pay disputed tax upfront as we agree with submitters that the existing “use of money interest” rates that Inland Revenue charges on unpaid tax provide a sufficient incentive to pay any tax which has been assessed.
+
+The above changes are likely to be welcomed by submitters.
+
+#### Evidence from Australia’s reforms
+
+Australia’s recent experience updating their transfer pricing laws (in 2013) and introducing a new Multinational Anti-Avoidance Law (MAAL) demonstrates the effectiveness of tax reforms to address PE avoidance and transfer pricing issues.
+
+Australia’s MAAL came into effect on 11 December 2015 and prevents multinationals from structuring their affairs to avoid having a PE in Australia. It is very similar to our proposed PE avoidance rule.
+
+As of 4 June 2017, the Australian Tax Office (ATO) had identified 221 taxpayers they believed to be shifting profits to a non-resident group member resident in a low-tax jurisdiction. Of these 221 taxpayers, the ATO has cleared 102. Furthermore, since the MAAL was introduced, 18 companies with PE avoidance structures have restructured their affairs to bring their sales onshore – and a further 11 are currently working with the ATO to restructure.
+
+According to the ATO, as a result of the introduction of the MAAL, an additional AUS$6.4 billion worth of assessable income will now be reported in Australia. This translates into $100 million a year in additional tax revenue for Australia.
+
+### 3.2 What criteria, in addition to monetary costs and benefits, have been used to assess the likely impacts of the options under consideration?
+
+The generic tax policy process (GTPP) includes a framework for assessing key policy elements and trade-offs of proposals. This framework is consistent with the Government’s vision for the tax and social policy system, and is captured by the following criteria:
+
+*   Efficiency of compliance – compliance costs for taxpayers should be minimised as far as possible;
+*   Efficiency of administration – administrative costs for Inland Revenue should be minimised as far as possible;
+*   Neutrality – the tax system should bias economic decisions as little as possible;
+*   Fairness and equity – similar taxpayers in similar circumstances should be treated in a similar way; and
+*   Sustainability – the potential for tax evasion and avoidance should be minimised while keeping counteracting measures proportionate to risks involved.
+
+In relation to this regulatory proposal, it would be difficult to achieve positive sustainability, neutrality, and fairness impacts without some increase in compliance costs and so there are some trade-offs that were, and continue to be, considered. Through our consultation we have worked with stakeholders to minimise compliance costs as much as possible without sacrificing the benefits of the proposal.
+
+### 3.3 What other options have been ruled out of scope, or not considered, and why?
+
+Two options were ruled out of scope due to their radical nature, namely:
+
+*   cancel New Zealand’s DTAs; and
+*   prevent multinationals from selling products in New Zealand if they were suspected of involvement in BEPS activities.
+
+The former would harm New Zealand exporters and outbound investors. The latter would not only harm New Zealand consumers (as they would no longer be able to import certain goods), but it would also violate New Zealand’s trade agreements.
+
+* * *
+
+### SECTION 4: IMPACT ANALYSIS
+
+* * *
+
+|     | Option 1: Status quo | Option 2: MLI and the OECD’s transfer pricing guidelines | Option 3: Diverted profit tax | Option 4: Discussion document proposals (as amended through consultation) |
+| --- | --- | --- | --- | --- |
+| Efficiency of compliance | 0   | \-  <br>Option 2 imposes increased compliance costs on taxpayers as a result of applying the MLI and the new transfer pricing guidelines. | \- -  <br>Option 3 imposes ongoing compliance costs on taxpayers as it requires them to provide information or concede transfer pricing outcomes in transfer pricing audits. | \-  <br>Option 4 imposes increased compliance costs on taxpayers as they will be required to conform to the additional administrative measures. See below for further details. |
+| Efficiency of administration | 0   | 0  <br>We do not expect there will be increased administrative costs under this option as the reforms largely change the way some taxpayers self-assess the income and deductions they report to Inland Revenue. | \-  <br>We expect there will be increased administrative costs under this option as a DPT is a separate tax from an income tax. | 0  <br>We do not expect there will be increased administrative costs under this option. The proposed administrative measures should also make it easier for Inland Revenue to investigate uncooperative multinationals. See below for further details. |
+| Neutrality | 0   | +  <br>Option 2 will remove some of the tax benefit of currently observed transfer pricing and PE avoidance opportunities in New Zealand. See below for further details. | +  <br>Option 3 will remove the tax benefit of currently observed transfer pricing and PE avoidance opportunities involving New Zealand. However, it may have a negative impact on investment certainty for taxpayers. | \+ +  <br>Option 4 will remove the tax benefit of all currently observed transfer pricing and PE avoidance opportunities involving New Zealand. See below for further details. |
+| Fairness and equity | 0   | +  <br>Option 2 has some fairness benefits as it ensures that some taxpayers able to use transfer pricing and PE avoidance arrangements cannot reduce their tax liability and pass their tax burden to others. See below for further details. | 0  <br>Option 3 has some fairness benefits as it ensures that taxpayers able to use transfer pricing and PE avoidance arrangements cannot reduce their tax liability and pass their tax burden to others. See below for further details. | +  <br>Option 4 has the most fairness benefits as it ensures that all taxpayers able to use observed transfer pricing and PE avoidance arrangements cannot reduce their tax liability and pass their tax burden to others. |
+| Sustainability | 0   | +  <br>Option 2 will remove some, but not all, of the current transfer pricing and PE establishment opportunities involving New Zealand. | +  <br>Option 3 will remove current transfer pricing and PE establishment opportunities involving New Zealand. See below for further details. | \+ +  <br>Option 4 will remove current transfer pricing and PE establishment opportunities involving New Zealand and is well-targeted at the problems that have been observed by Inland Revenue in New Zealand. |
+| Overall assessment | Not recommended | Not recommended | Not recommended | Recommended |
+
+**Key:**  
+++ much better than doing nothing/the status quo  
+\+ better than doing nothing/the status quo  
+0 about the same as doing nothing/the status quo  
+\- worse than doing nothing/the status quo  
+\- - much worse than doing nothing/the status quo
+
+#### Option 2 (MLI and the OECD’s transfer pricing guidelines)
+
+*   **Neutrality**: The effect of this option will be limited as the MLI will not cover many of our DTAs and New Zealand’s current transfer pricing legislation does not allow us to apply some of the new transfer pricing guidelines.
+*   **Fairness and equity**: While option 2 has some fairness benefits, it will not prevent all taxpayers from using such arrangements.
+
+#### Option 3 (Diverted profits tax)
+
+*   **Fairness and equity**: While option 2 has some fairness benefits, it also has some significant fairness detriments owing to its penal tax rate, reduced taxpayer rights, and wide scope. Further, a DPT could also impact on the perception of the fairness of New Zealand’s tax system for multinationals investing into New Zealand.
+*   **Sustainability**: Compared to the other options it would provide less certainty for, and impose more compliance costs on, taxpayers.
+
+#### Option 4 (Discussion document proposals (as amended through consultation))
+
+*   **Efficiency of compliance**: It is also highly likely that a number of taxpayers will choose to restructure their affairs and/or apply APAs.
+*   **Efficiency of administration**: The proposals may place a higher demand on Inland Revenue’s transfer pricing team and more transfer pricing specialists may be required to deal with this.
+*   **Neutrality**: This option will ensure multinationals engaged in BEPS activities are not tax-advantaged over more compliant domestic and non-resident businesses. This will provide some efficiency gains.
+
+* * *
+
+### SECTION 5: CONCLUSIONS
+
+* * *
+
+### 5.1 What option, or combination of options, is likely best to address the problem, meet the policy objectives and deliver the highest net benefits?
+
+We consider that option 4 (discussion document proposals (as amended through consultation)) is the best option to combat transfer pricing and PE avoidance.
+
+Option 4 will improve the neutrality of New Zealand’s tax system by eliminating the ability for multinationals to engage in aggressive transfer pricing and PE avoidance schemes to receive tax benefits. Option 4 will:
+
+*   ensure that multinationals cannot structure their affairs for the purpose of avoiding a taxable presence in New Zealand;
+*   stop companies from shifting profits out of the New Zealand tax base through artificial arrangements; and
+*   make it easier for Inland Revenue to investigate such multinationals.
+
+Option 4 will also improve the equity and fairness of New Zealand’s tax system. Multinationals engaging in BEPS activities are currently able to structure their affairs to receive unintended tax benefits placing them at a competitive advantage over more compliant multinationals or domestic companies. As a result, these more compliant multinationals and domestic companies end up suffering a greater tax burden. Option 4 will therefore ensure that the tax burden is shared more equally among taxpayers.
+
+While option 4 will impose additional tax and compliance costs on some taxpayers, it is important to note that some of the measures will only apply to large multinational groups with over EUR €750 million of consolidated group turnover. Submitters on the discussion document argued that the imposition of higher tax payments may make New Zealand a less attractive investment location for multinationals engaged in BEPS arrangements. However, as a number of like-minded countries throughout the OECD are undertaking similar BEPS measures, we believe that any impacts on foreign direct investment into New Zealand will not be material and that implementing the proposals in option 4 remains in New Zealand’s best economic interests (see further discussion in section 5.3 below).
+
+Option 1 (status quo) was preferred by a number of submitters to the discussion document. However, retaining the current rules would mean that those multinationals engaging in aggressive transfer pricing and PE avoidance structures would be able to continue, and the number of these types of avoidance cases would continue to increase. While New Zealand has a GAAR (see above in section 2.2), it is unlikely to be effective at addressing all transfer pricing and PE avoidance structures on its own. This is because applying the GAAR often leads to resource-intensive court cases and it may be difficult to show that certain avoidance structures fail the Parliamentary contemplation component of the GAAR.
+
+Option 2 (MLI and the OECD’s transfer pricing guidelines) was the option suggested by many submitters. However, we consider that adopting the OECD’s recommendations on their own (without corresponding domestic amendments) would not effectively address the issue of transfer pricing and PE avoidance. First, New Zealand’s existing transfer pricing legislation does not contemplate an ability to apply some important aspects of the new OECD’s transfer pricing guidelines. This means that Inland Revenue would only be able to apply the guidelines to the extent that our current domestic rules allow. Domestic law changes would likely be needed to adequately address the issue. Second, while option 2 has some fairness benefits, it will not prevent all taxpayers from using such arrangements. This is because the MLI will only apply where both countries choose to adopt it – and many of New Zealand’s trading partners do not intend to adopt it. It is therefore important that New Zealand adopt its own PE avoidance measure to supplement the MLI, otherwise there would still be a gap for multinationals to exploit. Third, the OECD’s BEPS measures do not address issues specific to New Zealand, such as issues with our current source rules and the practical difficulties of taxing multinationals (such as information asymmetry and the administrative costs of taxpayer disputes).
+
+Option 3 (diverted profits tax) is not recommended. This option would provide less certainty for, and impose significant compliance costs on, taxpayers. This is because a DPT is a separate tax at a much higher rate than the standard company tax rate and includes stringent enforcement mechanisms. This means an investor may find themselves being charged a much higher rate of tax (plus interest and penalties) that can be difficult to challenge or credit against prior year losses or taxes charged by other countries. This increased risk and uncertainty may reduce their willingness to invest in New Zealand (compared to more certain investments elsewhere).
+
+### 5.2 Summary table of costs and benefits of the preferred approach
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Affected parties**  <br>_(identify)_ | **Comment**: _nature of cost or benefit (eg ongoing, one-off), evidence and assumption (eg compliance rates), risks_ | **Impact**:  <br>_$m present value, for monetised impacts; high, medium or low for non-monetised impacts_ | **Evidence certainty**  <br>_(High, medium or low)_ |
+| **Additional costs of proposed approach, compared to taking no action** |     |     |     |
+| Regulated parties | _Compliance costs:_ increased costs understanding the rules and applying them to transactions and structures for multinationals which currently engage in BEPS activities. Such taxpayers may choose to restructure which will involve compliance costs and the demand for APAs may increase. | Medium. However, they should only affect multinationals currently engaged in BEPS activities. | Medium |
+| _Revenue_ | **$50 million per year** | Low\* |
+| Regulators | _Administrative costs:_ Inland Revenue staff, particularly investigators and transfer pricing specialists, need to develop their knowledge of the proposals. | Low | High |
+| Wider government |     |     |     |
+| Other parties |     |     |     |
+| **Total Monetised Cost** | _Revenue_ | **$50 million per year** | Low\* |
+| **Non-monetised costs** | _Compliance costs_ | Medium | Medium |
+| _Administrative costs_ | Low | High |
+| **Expected benefits of proposed approach, compared to taking no action** |     |     |     |
+| Regulated parties |     |     |     |
+| Regulators | _Tax payable:_ we are confident of collecting a significant amount of revenue from the proposals. | **$50 million per year** | Low\* |
+| _Reduced administrative costs:_ More powers to both request multinationals’ offshore information and to investigate uncooperative multinationals should make investigating these types of BEPS arrangements easier. | Low | High |
+| Wider government |     |     |     |
+| Other parties |     |     |     |
+| **Total Monetised Benefit** | _Revenue_ | **$50 million per year** | Low\* |
+| **Non-monetised benefits** | _Reduced administrative costs_ | Low | Low |
+| _Improved voluntary compliance_ by supporting the integrity of the tax system in a high profile area. | Low | Low |
+
+\*Note that the evidence for the $50 million figure is a conservative estimate made in light of the behavioural uncertainty associated with introducing transfer pricing and PE avoidance rules together with the fact that the full extent of these types of avoidance arrangements affecting New Zealand is unknown. The actual revenue generated from these reforms may therefore be significantly higher, but this cannot be estimated with confidence.
+
+### 5.3 What other impacts is this approach likely to have?
+
+During consultation on the discussion document, some submitters raised concerns that adopting the proposed measures would have a detrimental impact on New Zealand being an attractive investment destination. In particular, these submitters were concerned that the proposed measures introduce complex and onerous rules which may incentivise foreign companies to remove their existing personnel from New Zealand, thereby reducing GDP and lowering employment levels.
+
+The higher tax payments and compliance obligations resulting from these measures will inevitably make New Zealand a less attractive investment location for multinationals engaged in BEPS arrangements. However, at the same time, these multinationals should not be allowed to exploit weaknesses in our tax rules to achieve a competitive advantage over more compliant multinationals or domestic firms. Furthermore, arbitrary reductions in tax, depending upon the opportunism of taxpayers, are likely to distort the allocation of investment into New Zealand. New Zealand is also undertaking these BEPS measures in line with a number of like-minded countries throughout the OECD. Given this, we believe any impacts on foreign direct investment into New Zealand will not be material and implementing these measures remains in New Zealand’s best economic interests. It is also highly unlikely that foreign companies will remove their existing personnel from New Zealand as a result of these proposals. Most of the affected foreign companies are dependent on having personnel in New Zealand to arrange their sales. Without personnel on the ground, they would not be able to service their New Zealand market. It is also unlikely that they would cease to operate in New Zealand altogether.
+
+### 5.4 Is the preferred option compatible with the Government’s ‘Expectations for the design of regulatory systems’?
+
+Yes, option 4 (to adopt the package of measures in the discussion document) conforms to Government’s ‘Expectations for the design of regulatory systems’.
+
+* * *
+
+### SECTION 6: IMPLEMENTATION AND OPERATION
+
+* * *
+
+### 6.1 How will the new arrangements work in practice?
+
+The preferred option will be given effect through amendments to the Income Tax Act 2007 and the Tax Administration Act 1994. The bill, when introduced, will be accompanied by commentary in order to provide stakeholders with guidance as to the intended application of the provisions. Inland Revenue will also produce guidance on the enacted legislation in its _Tax Information Bulletin_ (TIB).
+
+Once implemented, Inland Revenue will be responsible for ongoing operation and enforcement of the new rules. Inland Revenue has not identified any concerns with its ability to implement these reforms.
+
+The intended application date for most aspects of the regulatory proposal is for income years starting on or after 1 July 2018.
+
+One exception is a grandparenting rule that exempts from application of the rules all advance pricing agreements (APAs) existing prior to the application date.
+
+Some submitters on the discussion document argued that there needs to be sufficient lead-in time for these reforms to allow taxpayers to restructure their affairs if necessary. We consider the planned application date of 1 July 2018 (for most of the measures) to be sufficiently prospective when compared with the date of the discussion document release, which is when taxpayers should be regarded to be have been notified of the Government’s intention in this area, and the scheduled date of introduction of the relevant tax bill.
+
+### 6.2 What are the implementation risks?
+
+We do not consider there to be many implementation risks for Inland Revenue. As with any legislative proposal, there is the risk of technical drafting errors and unintended consequences. If and when these arise, they will be dealt with by remedial amendment.
+
+In practice, these reforms will mostly involve changes for taxpayers rather than Inland Revenue. There is a risk that some taxpayers may not be able to restructure their arrangements or understand the rules in time to comply with their new obligations. To manage this risk, we plan on meeting with taxpayers and preparing detailed guidance materials.
+
+* * *
+
+### SECTION 7: MONITORING, EVALUATION AND REVIEW
+
+* * *
+
+### 7.1 How will the impact of the new arrangements be monitored?
+
+In general, Inland Revenue monitoring, evaluation, and review of tax changes would take place under the generic tax policy process (GTPP). The GTPP is a multi-stage policy process that has been used to design tax policy (and subsequently social policy administered by Inland Revenue) in New Zealand since 1995.
+
+Existing investigations functions for monitoring the behaviour of taxpayers will continue to be used for the proposed rules of this regulatory proposal.
+
+When the MAAL was introduced in Australia, 18 companies restructured their affairs to bring their sales onshore (and a further 11 are currently working with the ATO to restructure). We envisage a similar response to our proposals whereby a number of taxpayers will restructure their affairs to report their sales in New Zealand. We also expect more taxpayers to apply for APAs as a result of the new transfer pricing rules. However, it will be difficult to assess the true impact of the transfer pricing proposals.
+
+Inland Revenue are currently considering the appropriate level of information that should be collected to support the proposed rules for this regulatory proposal and for other BEPS proposals. This may be in the form of a disclosure statement made to the Commissioner of Inland Revenue or it may form part of existing information gathering tools.
+
+### 7.2 When and how will the new arrangements be reviewed?
+
+The final step in the GTPP process is the implementation and review stage, which involves post-implementation review of legislation and the identification of remedial issues. Opportunities for external consultation are built into this stage. For example, a post-implementation workshop with stakeholders that participated in policy consultation sessions may be appropriate for these rules. In practice, any changes identified as necessary following enactment would be added to the tax policy work programme, and proposals would go through the GTPP.
+
+If it became apparent that an aspect of the proposed rules is significantly unworkable, or if the rules have created unintended consequences whether tax-related or otherwise, this would justify a review of all or part of the legislation.
+
+1 Most of the submitters were stakeholder groups, tax advisors, and foreign-owned firms that would be affected by the proposals.
+
+2 The MLI allows countries to quickly and efficiently implement a number of the OECD’s BEPS Action Plan measures that can only be implemented through changes to DTAs, without having to bilaterally renegotiate their existing DTAs.

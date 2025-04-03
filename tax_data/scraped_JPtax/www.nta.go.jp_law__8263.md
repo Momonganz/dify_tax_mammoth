@@ -1,0 +1,7 @@
+CONVENTION ENTRE LE GOUVERNEMENT DU JAPON ET LE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE EN VUE D’ EVITER LES DOUBLES IMPOSITIONS ET DE PREVENIR L’ EVASION ET LA FRAUDE FISCALES EN MATIERE D’ IMPOTS SUR LE REVENU
+
+# (Article 13)
+
+2. (a) Les gains qu’un résident d’un Etat contractant tire de l’aliénation d’actions ou parts d’une société qui est un résident de l’autre Etat contractant sont imposables dans cet autre Etat si: (i) les actions ou parts détenues par le cédant (ainsi que celles qui sont détenues par des personnes apparentées et qui peuvent être ajoutées à celles du cédant) représentent au moins 25 pour cent du capital de la société à un moment quelconque au cours de la période d’imposition considérée; et (ii) les actions ou parts aliénées par le cédant et les personnes apparentées au cours de cette période d’imposition représentent au total au moins 5 pour cent du capital de la société.
+
+   (b) Nonobstant les dispositions du (a), lorsqu’une société qui est un résident d’un Etat contractant tire des gains de l’aliénation d’actions ou parts visées au (a) dans le cadre d’une restructuration de sociétés, et qu’une attestation est établie par l’autorité compétente de cet Etat certifiant que ces gains font l’objet d’un report d’imposition conformément à la législation fiscale de cet Etat dans le cadre de cette restructuration de sociétés, ces gains ne sont imposables que dans cet Etat. Toutefois, la présente disposition ne s’applique pas lorsque l’opération est effectuée principalement pour s’assurer le bénéfice de cette disposition.

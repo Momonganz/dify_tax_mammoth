@@ -1,0 +1,3 @@
+![](https://www.nta.go.jp/tmp/a5670aba-4cf6-4830-acc6-7a6bf97a173e/images/3d32818caec978d535647f5f54cb985e2720563c87c5451cfbb5be0502c8c53a.jpg)
+
+相税法第19条の2第5蔽佤装場合の配偶者の相税の軽减の不適用） $\\mathcal{O}$ 规定の適用、「課税格の合計の配偶者 $\\oslash$ 法定相分相当」 $\\mathcal{O}$ （第1表のの金额)、 $\\circled{6}$ $\\textcircled{7}$ $\\circledcirc$ 、「課税格の合計の配偶者の法定相分相当」 $\\mathcal{O}$ (第表のの金额)、 $\\textcircled{16}$ $\\textcircled{17}$ 及9の各、第5表の付表計算金额記。

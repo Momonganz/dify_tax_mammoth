@@ -1,0 +1,9 @@
+# 新旧对照表
+
+![](https://www.nta.go.jp/tmp/601033e8-93b1-496c-ab21-e2057a6eb083/images/47991cbebb98c1e695a84f09f390826323aa7ab7ea147e7898e3ff45e10b203b.jpg)
+
+![](https://www.nta.go.jp/tmp/601033e8-93b1-496c-ab21-e2057a6eb083/images/ee84ed49a7cc1269054856981ddcc7081494355337f63ac995ac9d12038fb251.jpg)
+
+![](https://www.nta.go.jp/tmp/601033e8-93b1-496c-ab21-e2057a6eb083/images/0be9b5ff75a95eac101e35f9e0372e36c6f6f455786fcdac9c4b831769491b4c.jpg)
+
+![](https://www.nta.go.jp/tmp/601033e8-93b1-496c-ab21-e2057a6eb083/images/0a20205d49911577073835f6f45c9a777881ec8d6121ad4e32085958b717f531.jpg)

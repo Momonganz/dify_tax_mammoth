@@ -1,0 +1,3 @@
+の告書機械取の黑丨記
+
+![](https://www.nta.go.jp/tmp/57b51152-5513-4002-939c-838108e8113d/images/814bb189baaa023212b80fb7e1f85440fa575943e8c9a086b00d985b125d834f.jpg)

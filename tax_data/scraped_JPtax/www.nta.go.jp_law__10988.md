@@ -1,0 +1,15 @@
+# 【新設】（帳簿価額から減算する金額のあん分）
+
+2－3－22 の3法人が子会社株式簿価減額特例 $\\mathcal{O}$ 適用を受ける場合において、当該法人が有する他 $\\mathcal{O}$ 法人 $\\mathcal{O}$ 株式（２－３－17《２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式 $\\mathcal{O}$ 発行されている場合 $\\mathcal{O}$ 銘柄の意義》の取扱いによりそれぞれ異なる銘柄として令第119 条の２第１項《有価証券の一単位当たりの帳簿価額 $\\mathcal{O}$ 算出 $\\mathcal{O}$ 方法》 $\\mathcal{O}$ 規定 $\\mathcal{O}$ 適用を受けるものに限る。）の帳簿価額から減算する金額は、益金不算入相当額を対象配当等 $\\mathcal{O}$ 額に係る基準時 $\\mathcal{O}$ 直前におけるそれぞれ $\\mathcal{O}$ 銘柄 $\\mathcal{O}$ 帳簿価額 $\\mathcal{O}$ 比によりあん分して計算した金額とする。
+
+# 【解説】
+
+１ 本通達は、子会社株式簿価減額特例（令 $1,1,9;,\\mathcal{O};,3;\\mathcal{O}$ ） $\\mathcal{O}$ 適用を受ける場合において、他の法人（子法人）が２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式を発行している場合 $\\mathcal{O}$ 当該他 $\\mathcal{O}$ 法人の株式 $\\mathcal{O}$ 帳簿価額から減算する金額 $1=2k\_{1}\\tau(0)$ 取扱 $\\textsf{V}^{\\flat}$ を明らかにするものである。２ 法人が他の法人から受ける配当等 $\\mathcal{O}$ 額（対象配当等 $\\mathcal{O}$ 額）がある場合において、そ $\\mathcal{O}$ 対象配当等 $\\mathcal{O}$ 額とそ $\\mathcal{O}$ 対象配当等 $\\mathcal{O}$ 額を受ける日 $\\mathcal{O}$ 属する事業年度開始 $\\mathcal{O}$ 日からそ $\\mathcal{O}$ 受ける直前までに受けた他 $\\mathcal{O}$ 配当等 $\\mathcal{O}$ 額（同一事業年度内配当等 $\\mathcal{O}$ 額）と $\\mathcal{O}$ 合計額が、これらの配当等 $\\mathcal{O}$ 額に係る各基準時 $\\mathcal{O}$ 直前において有する他 $\\mathcal{O}$ 法人 $\\mathcal{O}$ 株式等 $\\mathcal{O}$ 帳簿価額のうち最 $\\ddagger$ 大き $\\cup\\overset{\\forall}{\\boldsymbol{\\upphi}}\\mathcal{O}\\mathcal{O}$ $1,0,%$ 相当額を超えるときは、そ $\\mathcal{O}$ 対象配当等 $\\mathcal{O}$ 額に係 $\\mathbb{S}$ 基準時 $\\mathcal{O}$ 直前における当該他 $\\mathcal{O}$ 法人 $\\mathcal{O}$ 株式等 $\\mathcal{O}$ 帳簿価額からそ $\\mathcal{O}$ 対象配当等 $\\mathcal{O}$ 額のうち益金不算入相当額を減算した金額を基に、そ $\\mathcal{O}$ 基準時における一単位当た $\\raisebox{\\depth}{(\\chi)}\\mathcal{O}$ 帳簿価額を計算することとされている（令 $1,1,9;,\\mathcal{O};,3;\\mathcal{O}$ ）。
+
+３ ところで、この他 $\\mathcal{O}$ 法人が２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式を発行している場合において、その受ける対象配当等の額に係る益金不算入相当額をこれら $\\mathcal{O}$ 株式 $\\mathcal{O}$ 帳簿価額からどのように減算することとなるのか疑義が生ずる。
+
+この点、種類が異なる株式に係る帳簿価額であっても投下資本 $\\mathcal{O}$ 一部を構成することに変わりはないため、帳簿価額の $1,0,%$ を超える配当によ $\\supset$ て他 $\\mathcal{O}$ 法人 $\\mathcal{O}$ 純資産が減少するのであれば、２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式 $\\phi\\models$ ち配当が行われない株式 $\\mathcal{O}$ 帳簿価額についても引き下げることが妥当であると考えられることから、全て $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式 $\\mathcal{O}$ 帳簿価額を引き下げることとされている。この場合において、本通達では、２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 他 $\\mathcal{O}$ 法人 $\\mathcal{O}$ 株式 $\\mathcal{O}$ 帳簿価額から減算する金額 $1=21$ ては、益金不算入相当額をそれぞれ $\\mathcal{O}$ 帳簿価額 $\\mathcal{O}$ 比によ $\\boldsymbol{\\mathsf{\\Pi}}\_{\\mathrm{?}}$ あん分して計算した金額によることとし、帳簿価額から減算する金額を各種類 $\\mathcal{O}$ 株式に自由に配分することはできないことを明らかにしている。
+
+なお、他の法人が発行する２以上 $\\mathcal{O}$ 種類 $\\mathcal{O}$ 株式を有する場合の $1,0,%$ 判定 $1=21$ ては、法人税基本通達 $2,-,3,-,2,2$ 《帳簿価額のうち最 $\\ddagger$ 大き $\\cup\\overset{\\forall}{\\boldsymbol{\\upphi}}\\mathcal{O}\\mathcal{O}\\mathcal{O}$ 意義》 $\\mathcal{O}$ 注書において別途取扱いを定めている。
+
+４ 連結納税制度においても、同様の通達（連基通 $\\mathrm{ ~~2~~- ~~3~~- ~~20~~},\\mathcal{O},\\mathrm{ ~~3~~}\\right$ ）を定めている。

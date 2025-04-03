@@ -1,0 +1,7 @@
+![](https://www.nta.go.jp/tmp/05792837-29b2-4131-8f11-e94af6093d66/images/b055ade5527c856d487964cd047a19b3a64e066ccb9d80c00db20f0a2073f844.jpg)
+
+$\\circledcirc$
+
+![](https://www.nta.go.jp/tmp/05792837-29b2-4131-8f11-e94af6093d66/images/52382c665a3a7b60871cf968a29d1c0db7771001b0896247822e035209038559.jpg)
+
+$=$

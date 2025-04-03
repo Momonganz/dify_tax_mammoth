@@ -1,0 +1,78 @@
+[Skip to main content](#main-content-tp)
+
+Tax Policy
+
+[Regulatory impact assessment](/publications#sortCriteria=%40irsctpdate%20descending&numberOfResults=25&f-tpPublicationFacet=Regulatory impact assessment)
+
+* * *
+
+Published 14 May 2002
+
+RIS - Taxation (Annual Rates, Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Bill
+=========================================================================================================
+
+Regulatory impact and compliance cost statement. May 2002.
+
+One goal in formulating tax law is to ensure that the costs of the tax system are minimised. However, compliance costs must be balanced by the need to protect the tax base, ensure an efficient tax system, and to treat all taxpayers fairly. The majority of the proposals in the bill are aimed at reducing tax-related compliance costs, and all aim to improve the efficiency and equity of the tax system.
+
+### Compliance cost statement
+
+The following proposals in the bill reduce compliance costs:
+
+*   _Tax pooling_: Tax pooling will reduce compliance costs associated with the payment of provisional tax. It will do so by providing an administrative mechanism that will allow taxpayers to manage the uncertainty inherent in the calculation and payment of the tax. They will have the opportunity to mitigate their tax payment risks, along with their exposure to use of money interest.  
+    Another advance arising from tax pooling is that it will involve the introduction of intermediaries, who will provide a communication link between taxpayers and Inland Revenue. To the extent that participating taxpayers choose to deal with their pooling intermediary, their need to communicate with Inland Revenue regarding their tax payments will be reduced.
+*   _PAYE intermediaries_: The ability of employers to voluntarily transfer their PAYE obligations to accredited intermediaries will reduce compliance costs for employers. The initiative will reduce the barriers to employers of using intermediaries to meet PAYE obligations and support those who currently use intermediaries to help meet those obligations.  
+    One of the key benefits of the initiative is that employers' exposure to the risk of non-compliance with the PAYE rules would be greatly reduced. Employers would be able to transfer the responsibility of calculating and paying PAYE and filing returns to the extent that they provide the intermediary with correct payroll information and employees' gross wages as agreed between them. Currently, employers who fail to pay the correct PAYE deduction by the due date could face both late payment and shortfall penalties. Late filing penalties also apply if PAYE returns are not filed on time. In addition, outstanding PAYE balances of more than $100 attract use of money interest charges. An important outcome is that employers will be able to transfer resources spent in meeting their PAYE obligations to other activities in their business.
+*   _Depreciation and amalgamation_: These proposals will reduce compliance costs by clarifying the interaction of the depreciation rules and the amalgamation rules. They will ensure that companies which amalgamate are treated equitably in respect of their depreciation deductions.
+*   _Reimbursement of interest expenses_: The proposal will reduce compliance costs by removing any uncertainty that occurs when a person reimburses another party for interest expenses incurred as part of film production expenditure. The person will be able to deduct the reimbursement as if it were film production expenditure they had incurred themselves.
+*   _Conduit tax relief, branch equivalent tax accounts and residual income tax_: These proposals will slightly reduce compliance costs as they provide certainty that the law is as was originally intended.
+*   _Rationalising the terminal tax payment date provisions_: Compliance costs will be reduced because it will be easier for taxpayers to determine their terminal tax payment dates. Other provisions that refer to terminal tax payment dates can be made significantly more concise as they can refer to one provision instead of several.
+*   _Onus of proof_: This proposal will allow the courts to reduce the Commissioner's assessments when the taxpayer can prove that the amount assessed is excessive. This is likely to reduce taxpayers' compliance costs in reducing the costs of disputing assessments.
+*   _Tax in dispute_: This proposal is likely to reduce compliance costs in that taxpayers generally will no longer be required to pay half the amount being disputed.
+*   _Capping shortfall penalties_: This proposal will reduce compliance costs in that taxpayers will no longer dispute cases in order to reduce the penalty.
+*   _Promoter penalties_: This proposal will reduce compliance costs as promoters of arrangements will be more accountable for their actions and take more care in ensuring that the tax effects of the arrangements they offer are correct.
+*   _Telecommunications services_: The amendments reduce compliance costs for telecommunications suppliers.
+
+The following proposals in the bill increase compliance costs:
+
+*   _Unacceptable interpretation_: This proposal will increase compliance costs in that taxpayers will be required to take extra care in interpreting the legislation in cases where there is a significant amount of tax at stake. To counter this increase the thresholds over which this penalty is imposed are being increased. Those taxpayers taking tax positions which fall under the proposed new increased thresholds will have reduced compliance costs.
+*   _International cruises_: The compliance costs of zero-rating international cruises are likely to be minimal. The amendment will not result in a significant change in practice, as GST is not currently being returned on these supplies.
+
+The following changes in the bill do not change compliance costs:
+
+*   _Annual rates_: The amendment to confirm the annual rates of income tax for the 2002-03 income year will have no impact on compliance costs.
+*   _Taxation of Maori organisations_: The Maori authority proposals are aimed at clarifying and simplifying tax compliance for Maori authorities and minimising the extent to which individuals who derive benefits from these organisations must interact with the tax system. Like all reforms that involve significant change, the new rules will involve an initial compliance cost as taxpayers and their advisors become better acquainted with the new changes.  
+    On going compliance costs for Maori authorities will vary from entity to entity depending on the sophistication of their internal systems, access to expert tax advice and the knowledge of their trustees or administrators but these costs should not be any greater than what Maori authorities currently face. Individuals who derive benefits form Maori authorities may face lower compliance costs, as there will be less need for them to file a tax return or request a personal tax summary at the end of the year.  
+    Overall, people affected by the proposed changes should receive compliance benefits from having a modern and clear set of legislative provisions that are more relevant to their specific needs and which fit better with other parts of the income tax legislation.
+*   _Charities_: The amendments to do not change compliance costs.
+*   _Good behaviour_: This proposal is likely to have no effect on compliance costs. It is aimed at ensuring those taxpayers who have a history of good behaviour are not overly penalised when their compliance does lapse. The proposal is likely to increase the incentives on taxpayers to voluntarily comply.
+*   _Information gathering powers_: The proposal reduces compliance costs by removing uncertainty, by ensuring that the legislation clearly specifies the obligations on both the Commissioner and the taxpayer.
+
+### Consultation
+
+The proposals contained in the bill were, with the exception of an anti-avoidance measure and minor remedial amendments, subject to the Generic Tax Policy Process, a robust consultative and tax policy development process. For most measures in the bill, this process included the release of the following discussion documents:
+
+*   _Taxation of Maori organisations_
+*   _More time for business_
+*   _Tax and charities_
+*   _Taxpayer compliance, standards and penalties: a review_
+*   _GST and imported services_
+
+To support the discussion document on the taxation of Maori organisations, information workshops were held in 22 regions around the country. The purpose of these workshops was to raise awareness about the proposals set out in the discussion document and to encourage people to make submissions on the proposed changes.
+
+Specific consultation was undertaken with a number of professional groups, industry representatives and individual taxpayers, according to their expertise on the proposed amendments. This included consultation with:
+
+*   Cruise New Zealand
+*   Federation of Maori Authorities
+*   Institute of Chartered Accountants of New Zealand
+*   New Zealand Law Society
+*   Telecom New Zealand Limited
+*   The Maori Trustee
+*   Trustees and administrators of Maori organisations
+*   Vodafone Group (UK)
+*   Vodafone New Zealand Limited
+*   A number of small businesses, charitable organisations and tax advisers.
+
+[PDF (104 KB)\
+\
+pdf \- 103.85 KB](/-/media/project/ir/tp/publications/2002/2002-ris-armotcmp/2002-ris-armotcmp-pdf.pdf?modified=20200910100923&modified=20200910100923 "PDF (104 KB)")

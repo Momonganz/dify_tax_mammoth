@@ -1,0 +1,1 @@
+![](https://www.nta.go.jp/tmp/7965d438-86fd-4370-bf37-34ea4a908496/images/3a13391ace6fe5957fe2c3f83ffe36add2b3f93c39cc986305d05bc24ba2739d.jpg)

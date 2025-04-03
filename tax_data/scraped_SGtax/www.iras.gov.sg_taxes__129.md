@@ -1,0 +1,1 @@
+![Property tax is a tax on property ownership. It is different from Income Tax.](https://www.iras.gov.sg/media/images/default-source/uploadedimages/pages/oie!_iras_propertytax_9-02.jpg?sfvrsn=2f0fb33e_0)

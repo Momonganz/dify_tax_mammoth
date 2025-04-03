@@ -1,0 +1,13 @@
+![](https://www.nta.go.jp/tmp/71303b13-89f3-479a-b547-c72458275307/images/02a6663047d35494ae8d6e83d7b9f7035178f17bf366ae9c8323ceb0de4353a4.jpg)
+
+![](https://www.nta.go.jp/tmp/71303b13-89f3-479a-b547-c72458275307/images/ae42ae0ae192fede2237adb8f4c35d21d2cc8177e5ffd514022003a0d53311fd.jpg)
+
+![](https://www.nta.go.jp/tmp/71303b13-89f3-479a-b547-c72458275307/images/601e3fe2f52c09d309444ff8ae6d7f5b501457a137de08ddc36d2ab5e7bc25a0.jpg)
+
+![](https://www.nta.go.jp/tmp/71303b13-89f3-479a-b547-c72458275307/images/7b07798704e4a7f3a1e88728c8f2f6e7728ab1f84213f25660dabd7ad13d5456.jpg)
+
+![](https://www.nta.go.jp/tmp/71303b13-89f3-479a-b547-c72458275307/images/c5e66b3d81a0b5e90e6d9168295c0740479d114aa69d61c3b7ea3750c31a3d9b.jpg)
+
+$\\circledcirc$
+
+$\\cdot$

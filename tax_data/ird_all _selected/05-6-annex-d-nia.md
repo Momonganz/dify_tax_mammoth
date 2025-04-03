@@ -1,0 +1,413 @@
+[Skip to main content](#main-content-tp)
+
+Tax Policy
+
+[05 Cabinet paper Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base E](/publications/2017/2017-other-beps/05-cabinet-paper-mli "05-cabinet-paper-mli")
+
+05-6 - Annex D – National interest analysis
+===========================================
+
+|     |     |
+| --- | --- |
+| Document number | 05-6 |
+| Date | 18 April 2017 |
+| Type | Cabinet paper attachment |
+| Title | Annex D – National interest analysis |
+| Description | Attached as Annex D to the Cabinet paper _Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting: Approval for Signature and Ratification_ |
+| Downloads | See the main page of the Cabinet paper. |
+| Contents | *   [Executive summary](#summary)<br>    <br>*   [Nature and timing of the proposed treaty action](#timing)<br>    <br>*   [Reasons for New Zealand becoming party to the treaty](#reasons)<br>    <br>*   [Advantages and disadvantages to New Zealand of the Multilateral Instrument entering into force and not entering into force for New Zealand](#advantages)<br>    <br>*   [Legal obligations which would be imposed on New Zealand by the treaty action, the position in respect of reservations to the treaty, and an outline of any dispute settlement mechanisms](#obligations)<br>    <br>*   [Measures which the Government could or should adopt to implement the treaty action, including specific reference to implementing legislation](#measures)<br>    <br>*   [Economic, social, cultural and environmental costs and effects of the treaty action](#costs-effects)<br>    <br>*   [The costs to New Zealand of compliance with the treaty](#compliance)<br>    <br>*   [Completed or proposed consultation with the community and parties interested in the treaty action](#consultation)<br>    <br>*   [Subsequent protocols and/or amendments to the treaty and their likely effects](#protocols)<br>    <br>*   [Withdrawal or denunciation provision in the treaty](#withdrawal)<br>    <br>*   [Agency Disclosure Statement](#disclosure)<br>    <br>*   [Annex A](#annex-a)<br>    <br>*   [Annex B](#annex-b)<br>    <br>*   [Annex C](#annex-c) |
+
+* * *
+
+### Executive summary
+
+1\. On \[\_\_\_\_\_\_\_\_\_\_\] in \[\_\_\_\_\_\_\_\_\_\], New Zealand signed the _Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting_ (the Multilateral Instrument or MLI).
+
+2\. The MLI is a multilateral international treaty that proposes to quickly and efficiently amend a significant number of double tax agreements (DTAs) around the world to take into account new treaty standards relating to treaty abuse and dispute resolution. The MLI cannot in and of itself allocate taxing rights between two jurisdictions; it is effective by modifying pre-existing DTAs. For it to modify a particular DTA, both jurisdictions must be parties to the MLI and must have included the DTA in their lists of notifications and reservations provided at the same time their instruments of ratification are deposited.
+
+3\. The negotiation of, and giving of effect to, DTAs (and the MLI) is provided for by section BH 1 of the Income Tax Act 2007.
+
+4\. DTAs are bilateral international treaties that are principally designed to encourage growth in economic ties between countries. They do this by reducing tax impediments to cross-border services, trade and investment. New Zealand has 40 DTAs in force, primarily with New Zealand’s major trading and investment partners.
+
+5\. While DTAs are beneficial for taxpayers, investors and governments themselves, there is the potential for these bilateral agreements to be misused to reduce or eliminate a multinational’s worldwide tax. Misuse of DTAs in this way has been a feature of a number of cross-border tax avoidance arrangements.
+
+6\. The misuse of DTAs forms part of a wider problem referred to as base erosion and profit shifting (BEPS), which has been the focus of significant global media and political attention since late 2012, following evidence suggesting that some multinationals pay little or no tax anywhere in the world.
+
+7\. BEPS is a global problem as many BEPS strategies exploit technical differences between different countries’ tax rules, so New Zealand has been working with the Organisation for Economic Co-operation and Development (OECD) and G20 to develop a co-ordinated global solution to address BEPS through the 15-point OECD/G20 BEPS Action Plan.
+
+8\. A number of the items on the BEPS Action Plan address the misuse of DTAs and can only be implemented through changes to DTAs themselves. Some of these solutions are “minimum standards” that countries that commit to solving BEPS are expected to adopt. Other provisions are optional, but are DTA “best practice” and now form part of the OECD Model Tax Convention following adoption of the OECD/G20 BEPS Action Plan.
+
+9\. Countries, including New Zealand, were presented with the difficulty of how to quickly and efficiently implement these measures without requiring the bilateral renegotiation of several thousand existing DTAs, which could take several years (or even potentially decades). For this reason, the Multilateral Instrument was developed under Action 15 of the OECD/G20 BEPS Action Plan to swiftly amend the DTAs of all participating jurisdictions.
+
+10\. To make the best use of the MLI, New Zealand’s strategy has been to include the majority of its DTAs within the scope of the MLI and has chosen to adopt as many of the MLI provisions as possible, as they are in line with New Zealand’s overall treaty policy. This gives New Zealand the best chance of strengthening its DTAs with as many jurisdictions as possible.
+
+### Nature and timing of the proposed treaty action
+
+11\. New Zealand signed the _Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting_ (the Multilateral Instrument or MLI) on \[\_\_\_\_\] in \[\_\_\_\_\]. The text of the Multilateral Instrument is attached as Annex A.
+
+12\. The proposed treaty action is to ratify the Multilateral Instrument into force by depositing New Zealand’s instrument of ratification with the Depositary of the Multilateral Instrument, the Secretary-General of the OECD, in accordance with Articles 27 and 34 of the Multilateral Instrument, after the necessary domestic procedures for entry into force have been completed. At the same time New Zealand’s instrument of ratification is deposited, New Zealand must also provide its list of confirmed notifications and reservations. This is attached as Annex B.
+
+13\. Before ratification can occur, the MLI must undergo Parliamentary treaty examination, in accordance with Parliament’s Standing Order 397, and must successfully be given the force of law in New Zealand by an Order in Council made pursuant to section BH 1 of the Income Tax Act 2007.
+
+14\. In general, the MLI will enter into force for New Zealand on the first day of the month following the expiration of a period of three calendar months after the date New Zealand’s instrument of ratification is deposited. However, the MLI itself will only enter into force once five jurisdictions have deposited their instruments of ratification. The procedure for entry into force of the MLI is set out in Article 34 of the MLI.
+
+15\. The MLI cannot in and of itself allocate taxing rights between two jurisdictions; it is effective by modifying pre-existing DTAs. As DTAs are bilateral agreements negotiated by two jurisdictions, Article 35 of the MLI provides that the provisions of the MLI will only have effect in relation to a particular DTA once the MLI has entered into force for both parties to that DTA where both jurisdictions have nominated the DTA to be covered by the MLI by including the DTA in their list of confirmed notifications and reservations submitted at the time the instrument of ratification is deposited (i.e. it is a covered tax agreement).
+
+16\. As with New Zealand’s DTAs more generally, Zealand’s signature of the Multilateral Instrument does not extend to Tokelau.
+
+### Reasons for New Zealand becoming party to the treaty
+
+#### General reasons for New Zealand concluding double tax agreements
+
+17\. New Zealand began entering into DTAs in 1947, and currently has a network of 40 DTAs in force, predominantly with New Zealand’s main trading and investment partners.
+
+18\. DTAs are bilateral international treaties that are principally designed to encourage growth in economic ties between countries. DTAs do this by reducing tax impediments to cross-border services, trade and investment. Some impediments to cross-border economic activity can be addressed unilaterally. For example, New Zealand generally relieves double taxation by unilaterally allowing tax residents who derive foreign-sourced income to credit foreign tax paid against their New Zealand tax liability. New Zealand also unilaterally reduces withholding taxes on certain forms of inbound investment. However, unilateral solutions cannot address all of the issues that arise from cross-border activity. Moreover, the country applying unilateral measures must then bear the full cost of the relief. DTAs address these problems by facilitating bilateral solutions. DTAs enable a wider range of issues to be addressed than is possible unilaterally, and also enable the parties to a DTA to share the cost of providing relief.
+
+19\. DTA networks make an important contribution to the expansion of world trade and to the development of the world economy, which are key objectives of the OECD. Internationally, the OECD has therefore assumed a leading role in promoting the use of DTAs. In particular, the OECD has produced a Model Tax Convention, and a comprehensive commentary, for member and non-member countries to use as a basis for concluding DTAs. As a member of the OECD, New Zealand is subject to an express recommendation issued by the OECD Council in 1997[\[1\]](#footnote1)
+ for all member countries:
+
+> 1.  _to pursue their efforts to conclude bilateral tax conventions … with those member countries, and where appropriate with non-member countries, with which they have not yet entered into such conventions …_
+> 2.  _when concluding new bilateral conventions or revising existing bilateral conventions, to conform to the Model Tax Convention, as interpreted by the Commentaries thereon._
+
+20\. New Zealand’s negotiating model is based on the OECD Model Tax Convention, with some differences that take into account New Zealand’s status as a small capital importing nation and other unique features of New Zealand’s economy, for example, the importance of primary industries. Therefore, the OECD Model Tax Convention and its associated commentary play an important role in New Zealand’s overall treaty policy and New Zealand’s DTA network.
+
+#### Reasons for New Zealand becoming party to the Multilateral Instrument
+
+21\. While DTAs are beneficial for taxpayers, investors and governments, there is the potential for these bilateral agreements to be misused to reduce or eliminate a multinational’s worldwide tax. Misuse of DTAs in this way has been a feature of a number of cross-border tax avoidance arrangements.
+
+22\. The misuse of DTAs forms part of a wider problem referred to as base erosion and profit shifting (BEPS), which has been the focus of significant global media and political attention since late 2012, following evidence suggesting that some multinationals pay little or no tax anywhere in the world.
+
+23\. BEPS is a global problem as many BEPS strategies exploit technical differences between different countries’ tax rules, and New Zealand has been working with the OECD and G20 to develop a co-ordinated global solution to address BEPS through the 15-point OECD/G20 BEPS Action Plan. The New Zealand Government has confirmed its commitment to resolving BEPS on a number of occasions.[\[2\]](#footnote2)
+
+24\. A number of the items on the OECD/G20 BEPS Action Plan address the misuse of DTAs and can only be implemented through changes to DTAs themselves. These are:
+
+*   preventing the granting of treaty benefits in inappropriate circumstances (Action 6);
+*   preventing the artificial avoidance of permanent establishment status (Action 7);
+*   neutralising the effects of hybrid mismatch arrangements that have a treaty aspect (Action 2); and
+*   providing improved mechanisms for effective dispute resolution (Action 14).
+
+25\. Some of the solutions under these Action items are “minimum standards” that countries that commit to solving BEPS are expected to adopt. Other provisions are optional, but are DTA “best practice” and now form part of the OECD Model Tax Convention following the adoption of the OECD/G20 BEPS Action Plan.
+
+26\. Given the important role the OECD Model Tax Convention plays in informing New Zealand’s treaty policy, as well as New Zealand’s commitment to resolving BEPS more generally, New Zealand is committed to including these minimum standards as well as the optional best practice provisions in its DTAs, where they are in line with overall New Zealand treaty policy.
+
+27\. New Zealand’s treaty negotiation resources are limited and to update New Zealand’s entire DTA network would take several years, if not decades, particularly as many of New Zealand’s treaty partners would likely place greater importance on updating more significant treaties. This would limit New Zealand’s ability to meet the OECD minimum standard in a timely fashion.
+
+28\. Finding resources to update DTAs is a common problem faced by many countries, not just New Zealand. The development of the Multilateral Instrument under Action 15 of the OECD/G20 BEPS Action Plan takes into account the existence of several thousand DTAs around the world and allows participating jurisdictions to quickly and efficiently amend their DTAs to counter BEPS. The text of the MLI was developed by the OECD Ad Hoc Group consisting of officials from more than 100 participating jurisdictions including New Zealand and was formally adopted by the OECD in November 2016.
+
+29\. The MLI is flexible and allows countries to choose:
+
+*   which of their existing DTAs they wish to modify through the MLI;
+*   alternative ways of meeting BEPS minimum standards on treaty abuse and dispute resolution; and
+*   whether they want to adopt the OECD-recommended provisions for non-minimum standards. Within some of these provisions, there are alternative ways of addressing BEPS concerns and the ability for countries to enter a variety of reservations.
+
+30\. To make the best use of the MLI, New Zealand’s strategy has been to include the majority of its DTAs within the scope of the Multilateral Instrument and has chosen to adopt as many of the MLI provisions as possible. This gives New Zealand the best chance of strengthening its DTAs with as many jurisdictions as possible.
+
+31\. New Zealand’s list of notifications and reservations can be found in Annex B. This document lists the DTAs New Zealand wishes to be covered by the MLI and the provisions New Zealand has indicated it will adopt. This document must be submitted at the time instrument of ratification is deposited and will be considered “confirmed” at that point in time. There is limited ability to amend New Zealand’s notifications and reservations following entry into force, which is discussed in further detail the section titled _Subsequent protocols and/or amendments to the treaty and their likely effects_.
+
+32\. Of New Zealand’s 40 in-force DTAs, New Zealand has nominated 34 to be covered by the MLI. Many of these DTAs were concluded in the 1970s and 1980s and do not reflect modern treaty standards, even before the work on BEPS was completed. The six DTAs that have not been listed are with jurisdictions who will not be signing the MLI. To be modified by the MLI, both New Zealand and the other jurisdiction must elect for the MLI to apply to the DTA (if there is a match, then the DTA is a “covered tax agreement”). Based on current draft notifications, New Zealand is expected to have 28 covered tax agreements. See Annex C. While this list is not final, it provides a fairly good indication of the likely coverage of the MLI. Final coverage will not be confirmed until each jurisdiction deposits its instrument of ratification with the OECD Depositary.
+
+33\. As noted above, New Zealand’s strategy in formulating its notifications and reservations has been to adopt as many of the MLI provisions as possible. This is because they are base protection measures that are in line with New Zealand’s existing treaty policy (which has a greater source state emphasis than the OECD Model Tax Convention) or are taxpayer friendly measures that provide improved access to dispute resolution. For example, New Zealand generally takes a broader approach in its DTAs than the current OECD Model Tax Convention in determining whether a permanent establishment exists. This means that the recommendations under Action 7 (preventing the artificial avoidance of permanent establishment status) of the OECD/G20 BEPS Action Plan which are contained in Articles 12¬ to 15 of the MLI are not contrary to New Zealand’s general treaty policy and, in New Zealand’s view, represent an improvement to the OECD Model Tax Convention.
+
+34\. The optional provisions New Zealand has chosen cover the following issues:
+
+*   Fiscally transparent entities (like trusts or partnerships) create arbitrage opportunities because they are treated differently for tax purposes by different countries. The provision in Article 3 clarifies that treaty benefits will only be allowed to the extent to which the item of income is taxed in the state in which the entity is resident.
+*   Dual resident entities can be used to take advantage of arbitrage opportunities by manipulating the current “place of effective management” test. The proposed provision in Article 4 will require competent authorities to agree the residence status of a dual resident entity. If there is no agreement, then treaty benefits will be denied, or only granted to the extent to which the competent authorities can agree.
+*   In the OECD Model Tax Convention – and in many of New Zealand’s modern treaties – a lower withholding tax rate is available where the shareholder owns more than a certain proportion of the company’s shares. The MLI provision in Article 8 requires shares to be held for a minimum of 365 days for the shareholder to be entitled to reduced withholding tax rates on dividends. This prevents shareholders buying shares and holding them temporarily in order to access lower withholding rates.
+*   Investors can hold land through companies and dispose of the shares in the company to avoid paying tax on the disposal of that land. Many treaties contain a “land-rich company rule” which allows the source jurisdiction to tax income derived from land when the majority of a company’s assets consist of land. To prevent the artificial and temporary dilution of the amount of land held by a company just before sale, the provision in Article 9 requires the threshold for the amount of land ownership which triggers the rule to be measured on every day in the 365 day period leading up to the sale of the shares and extends the rule to interests in other entities such as partnerships and trusts.
+*   Permanent establishments can be established in third states to exploit low tax rates and branch exemptions. Article 10 of the MLI introduces a provision that denies treaty benefits in the case of income derived by a permanent establishment of an enterprise resident in one of the parties to the DTA, where that permanent establishment is situated in a low tax third state and the residence state exempts the permanent establishment’s income.
+*   Article 11 introduces a provision that preserves a jurisdiction’s right to tax its own residents. For example, this provision would prevent a New Zealand resident who is engaged in a tax avoidance arrangement from claiming that a DTA prevents New Zealand from using its domestic general anti-avoidance rule to impose tax.
+*   A source jurisdiction generally cannot tax the business profits of a resident of the other contracting state unless there is a permanent establishment in the source state. The provisions in Articles 12 to 15 of the MLI introduce changes to counter common strategies used to avoid permanent establishment status.
+
+35\. In addition to addressing these specific BEPS concerns, Article 6 of the MLI proposes to amend the preamble to DTAs to confirm that they are not intended to be used to generate double non-taxation. Under Article 7, New Zealand has selected the option of adding a principal purpose test to its DTAs. The principal purpose test is a general anti-abuse rule that applies to the whole DTA. Both Articles 6 and 7 form part of the OECD minimum standard.
+
+36\. In addition to these base protection measures, New Zealand is signing up to taxpayer friendly measures relating to the mutual agreement procedure (MAP) and the availability of arbitration as a form of dispute resolution. These measures are a result of the work on Action 14 of the OECD/G20 BEPS Action Plan relating to improving mechanisms for effective dispute resolution. They recognise the fact that measures to counter BEPS should not lead to unnecessary uncertainty for compliant taxpayers and to unintended double taxation. Improving dispute resolution mechanisms is therefore an integral component of the work on BEPS issues.
+
+37\. Article 16 of the MLI introduces a provision allowing taxpayers to approach the competent authorities of either party to the DTA to request MAP where they believe taxation is not in accordance with the treaty. This is a new OECD minimum standard. While the majority of New Zealand’s DTAs contain MAP provisions, the MLI will amend these provisions to allow taxpayers to approach the competent authority of either jurisdiction (currently they only permit a case to be presented to the competent authority of the taxpayer’s country of residence). In addition, Article 16 creates a new minimum standard regarding time limits for bringing a case to MAP and for implementing a solution.
+
+38\. Article 17 requires contracting states to make appropriate corresponding adjustments in transfer pricing cases. This provision is already found in most of New Zealand’s DTAs except for New Zealand’s oldest treaties, which were concluded before the OECD Model Tax Convention included such a provision.
+
+39\. New Zealand has also opted to apply Part VI of the MLI, which will introduce arbitration as a means of dispute resolution. If a solution cannot be reached under MAP, taxpayers have the ability to request that unresolved issues can be taken to arbitration. New Zealand has already agreed to arbitration in two of its treaties (with Australia and Japan). New Zealand’s experience is that the arbitration facility is very rarely used, but it acts as an incentive for the competent authorities of two jurisdictions to come to an agreement within the required time period for MAP.
+
+40\. Note that while New Zealand has indicated that it will sign up to many of the optional provisions, these will only apply to a DTA if New Zealand’s treaty partner also signs the MLI, includes their DTA with New Zealand in their list of notifications and reservations and chooses to apply the same option as New Zealand.
+
+### Advantages and disadvantages to New Zealand of the Multilateral Instrument entering into force and not entering into force for New Zealand
+
+41\. The standard process for making amendments to DTAs is to renegotiate a new agreement or to negotiate a protocol that amends specific parts of the existing DTA (an amending protocol). In absence of the MLI, New Zealand would be expected to enter into bilateral negotiations with each of its treaty partners in order to meet the new OECD minimum standard. The advantages and disadvantages of bringing the MLI into force are therefore considered in relation to the status quo and also in relation to this bilateral negotiation approach.
+
+42\. The MLI is a novel approach to modifying DTAs, but it is not unprecedented in international law. Experts in both international tax and public international law participated in the OECD Ad Hoc Group that developed the MLI to ensure that it works as intended.
+
+43\. The provisions in the MLI have been drafted more broadly than they otherwise would for an amending protocol to take account of the fact that the MLI must be able to apply to not one DTA, but several thousand. This, combined with a limited ability to customise the MLI’s provisions, means that the interaction between the MLI and DTAs is not as straightforward as an amending protocol.
+
+44\. This complication is one of the most significant trade-offs, but despite this, ratifying the MLI is expected to be in New Zealand’s overall interests.
+
+#### Advantages of the Multilateral Instrument entering into force for New Zealand
+
+45\. The main advantage in the MLI entering into force for New Zealand is that it would reduce the ability of multinationals and other investors to misuse DTAs to reduce both their New Zealand tax and their worldwide tax, or in other words, it resolves BEPS issues that relate to tax treaties. This is achieved through changes to specific provisions found in DTAs, as well as through more general changes, such as a new preamble and the introduction of a general treaty anti-abuse rule.
+
+46\. Many of New Zealand’s treaties already contain pre-cursors to some of the MLI provisions, which will also feature in the updated OECD Model Tax Convention (for example, a principal purpose test, or a land-rich company rule that extends to interests in other entities). However, the drafting of these provisions often differs from treaty to treaty with no or little OECD commentary to rely on. By signing up to the relevant MLI provisions and replacing existing provisions, New Zealand will have consistency across its treaty network and will also be able to rely on the new OECD commentary relating to those provisions.
+
+47\. While the resolution of treaty-related BEPS issues and the introduction of improved mechanisms for dispute resolution could also occur in absence of the MLI, in order to do this New Zealand would be required to enter into bilateral negotiations with each of its treaty partners.
+
+48\. The main advantage of the MLI compared with the bilateral negotiation approach is that the MLI process is much faster and more efficient. Based on current projections it is possible that the MLI could enter into effect for New Zealand in 2019. Bilateral negotiations, on the other hand, could take several years or potentially decades to complete. No additional negotiations or discussions with treaty partners are required for the MLI to apply to a DTA. This is because jurisdictions have been required to provide draft notifications and reservations at various stages of the MLI project, which has provided clarity as to jurisdictions’ positions. In addition, “speed matching” sessions were arranged by the OECD in late February – early March 2017 so that bilateral treaty partners could meet to discuss any issues with the application or implementation of the MLI, either in general or with regard to specific provisions.
+
+49\. In addition to the time it would take to complete bilateral negotiations, each individual amending protocol would need to be ratified according to each jurisdiction’s domestic law requirements, as opposed to ratifying the single MLI. This could add further time to the process and create bottlenecks in parliamentary processes, as other jurisdictions may place greater importance on ratifying amending protocols with more significant economies than New Zealand.
+
+50\. In this respect, the main advantages of the MLI compared with entering into individual bilateral negotiations are that the BEPS solutions will be incorporated into New Zealand’s DTAs as soon as possible and resources (from both a policy perspective and a Parliamentary perspective) will be freed up to work on other priorities.
+
+51\. New Zealand’s tax system operates on the principle of voluntary compliance, which relies on taxpayers understanding their tax obligations and how the wider tax system works. An important part of this is that, overall, the tax system is seen to be fair. If the view persists that multinationals do not pay their fair share of tax, this could undermine the integrity of the tax system. Therefore, New Zealand’s ratification of the MLI and the resolution of treaty-related BEPS issues in a timely manner support the overall integrity of the New Zealand tax system. This is discussed in further detail in the section titled _Economic, social, cultural and environmental costs and effects of the treaty action_.
+
+52\. The advantages to New Zealand in becoming a party to the MLI (as compared to the bilateral negotiation approach) can therefore be summarised as follows:
+
+*   it significantly reduces the possibility of New Zealand’s DTAs being misused to reduce or eliminate tax liabilities;
+*   it introduces taxpayer friendly measures relating to disputes resolution;
+*   it allows New Zealand to update the majority of its DTAs quickly and efficiently;
+*   the timely resolution of treaty related BEPS issues supports the overall integrity of the New Zealand tax system.
+
+#### Disadvantages of the Multilateral Instrument entering into force for New Zealand
+
+53\. The main disadvantage of the MLI entering into force for New Zealand stems from the fact that the provisions in the MLI have been drafted more broadly than they otherwise would for an amending protocol to take account of the fact that the MLI must be able to apply to not one DTA, but several thousand.
+
+54\. This means that there can be some ambiguity in how the MLI applies to a particular DTA. This ambiguity is mitigated in many cases as a given MLI provision will only replace the corresponding DTA provision if both treaty partners notify the same provision.
+
+55\. Any residual ambiguity may give rise to compliance costs as taxpayers will need to consider the DTA alongside the text of the MLI and the confirmed notifications and reservations of both parties to the DTA. This would not occur if instead of ratifying the MLI, New Zealand into individual bilateral amending protocols with each of its DTA partners.
+
+56\. There are ways in which these upfront compliance costs may be mitigated. Publishers may produce consolidated texts as they currently do with amending protocols and original DTAs. In addition to this, New Zealand Inland Revenue officials are continuing discussions with overseas counterparts to determine what additional certainty the competent authorities may be able to provide (for example, through the mutual agreement procedure in DTAs, competent authorities can produce a memorandum of understanding to resolve any difficulties or doubts arising as to the interpretation or application of the MLI with respect to a specific DTA). New Zealand officials may also consider producing informal consolidated versions of New Zealand’s DTAs in response to submissions requesting this.
+
+57\. This complication is one of the most significant trade-offs, but despite this, bringing the MLI into force is expected to be in New Zealand’s overall interests. Any upfront compliance costs associated with determining how the MLI modifies a particular DTA and the administrative costs associated with producing guidance on the application of the MLI would be offset by the savings made from not having to enter into bilateral negotiations with each DTA partner and then having to bring each amending protocol into force.
+
+58\. There are also compliance and administrative costs that would still arise if instead of ratifying the MLI, New Zealand entered into individual amending protocols with each of its DTAs partners, for example in the context of competent authority agreements to determine the residence of dual resident entities or in challenge the application of specific anti-avoidance provisions.
+
+59\. The issue of compliance and administrative costs is discussed in further detail in the section titled _The costs to New Zealand of compliance with the treaty_. While we are unable to quantify these compliance and administrative costs, we expect them to be modest and through consultation officials are working on ways to minimise these further.
+
+60\. Another disadvantage is the uncertainty of outcomes for each individual DTA. Note that while New Zealand has indicated that it will sign up to many of the optional provisions, these will only apply to a DTA if New Zealand’s treaty partner also signs the MLI, includes their DTA with New Zealand in their list of notifications and reservations and chooses to apply the same option as New Zealand. As stated, notifications and reservations are considered to be in draft form until the instrument of ratification is deposited. Therefore, the modifications to a specific DTA will not be completely certain until both parties have completed their domestic procedures for entry into force and deposited their instruments of ratification. Notwithstanding this uncertainty, New Zealand can control its own position and only choose provisions that it believes are principled and will enhance New Zealand’s DTA network. If countries choose to sign up to fewer MLI provisions than New Zealand, then the DTA will still be strengthened to the extent there is a match. New Zealand believes the provisions in the MLI are principled improvements on the current OECD Model Tax Convention and therefore supports the inclusion of the provisions in its treaties so far as it is possible.
+
+61\. Some stakeholders have raised issues about the inability to consider a set and certain package of measures on a treaty-by-treaty basis (as DTAs are usually a negotiated package, tailored to the specific circumstances of the jurisdictions involved and their bilateral relationship). For example, they have suggested it may be ideal to combine the new strengthened permanent establishment rules or the principal purpose test with the counterbalancing taxpayer-friendly measure of binding arbitration.
+
+62\. Some countries may choose only to adopt the former provisions and not the latter, particularly as the inclusion of a principal purpose test is one way of meeting the minimum standard on treaty abuse under Article 7, while arbitration is optional. Theoretically it would be possible to exclude from the scope of the MLI DTAs with jurisdictions who have indicated in their draft notifications that they will not be signing up to arbitration. However, this would reduce the efficacy of the MLI in enabling New Zealand to meet the OECD minimum standard as New Zealand would have to endeavour to undertake bilateral negotiations with these excluded jurisdictions, which could represent about half of New Zealand’s DTAs, based on current draft notifications. This is undesirable for the reasons outlined above. It would also mean that – until bilateral negotiations can take place – the DTAs excluded on this basis would remain vulnerable to the BEPS techniques the MLI is designed to address. On balance it is in New Zealand’s interest to obtain the stronger DTA provisions, even if it is without the optional arbitration provisions. We also note that many of New Zealand’s DTAs already include a principal purpose test and broader permanent establishment rules, but no ability to pursue arbitration. Therefore this combination is already a feature of some of our existing DTAs and, from New Zealand’s perspective, is not problematic.
+
+63\. Some of the provisions in the MLI (for example, the dual resident entity provision) require taxpayer engagement with competent authorities to determine their tax position. This will increase compliance and administrative costs in these cases. These provisions are used sparingly and are generally confined to areas where tax avoidance arrangements have been prevalent. However, there will be a need to put in place administrative measures to increase taxpayer certainty and minimise compliance costs as much as possible, particularly in bona fide cases where there is no mischief. Eight of New Zealand’s DTAs already contain this provision and it has not, to our knowledge, been problematic. In addition, if instead of ratifying the MLI, New Zealand entered into individual bilateral amending protocols, these costs would still arise. This is discussed in the section titled The costs to New Zealand of compliance with the treaty.
+
+64\. As New Zealand is signing up to the optional arbitration provisions contained in Part VI of the MLI, costs will be incurred if a case is submitted for arbitration. However, as noted below in the section titled _The costs to New Zealand of compliance with the treaty_, the actual costs associated with administering the arbitration provisions are likely to be negligible as New Zealand’s experience is that arbitration is very rarely used and would still arise if New Zealand agreed to include arbitration in its DTAs in individual bilateral amending protocols.
+
+#### Advantages of the Multilateral Instrument not entering into force for New Zealand
+
+65\. It is an option not to ratify the MLI. In that case, the disadvantages identified above relating to implementation would not arise.
+
+66\. In the fullness of time, New Zealand would be able to negotiate amending protocols with each of its DTA partners and tailor the drafting of these protocols to suit the preferences and needs of the treaty partners. This would make it clearer to taxpayers, practitioners and tax authorities what the exact change to each DTA is.
+
+67\. In addition, the amending protocols would also be able to cover issues not included in the MLI.
+
+#### Disadvantages of the Multilateral Instrument not entering into force for New Zealand
+
+68\. If New Zealand does not become a party to the MLI, there are two possible options.
+
+69\. The first is to leave New Zealand’s DTAs as they are. This would mean that there would still be opportunities for New Zealand’s DTAs to be misused to eliminate tax and New Zealand would not meet the new OECD minimum standard. As an OECD member country and a member of BEPS Inclusive Framework,[\[3\]](#footnote3)
+ this position is undesirable.
+
+70\. The second and more realistic option, given that New Zealand has indicated its commitment to the BEPS project is for New Zealand to begin bilateral negotiations with each of its DTA partners to incorporate the BEPS recommendations into its existing DTAs.
+
+71\. Bilateral negotiations, however, could take several years or decades to complete. In comparison, no additional negotiations or discussions with treaty partners would be required for the MLI to apply to a DTA. This is because jurisdictions have been required to provide draft notifications and reservations at various stages of the MLI project, which has provided clarity as to jurisdictions’ positions. In addition, “speed matching” sessions were arranged by the OECD in late February and early March 2017 so that bilateral treaty partners could meet to discuss any issues with the application or implementation of the MLI, either in general or with regard to specific provisions.
+
+72\. In addition to the time it would take to complete bilateral negotiations, each individual amending protocol would need to be brought into force according to each jurisdiction’s domestic law requirements, as opposed to bringing into force the single MLI. This could add further time to the process and create bottlenecks in parliamentary processes, as other jurisdictions may place greater importance on ratifying amending protocols with more significant economies than New Zealand.
+
+73\. This is problematic for several reasons. It leaves New Zealand’s DTAs open to misuse for a much longer period of time, but it also has the potential to undermine the integrity of the tax system if there is a continued perception that multinationals do not pay their fair of tax in New Zealand. This is discussed in further detail in the sections titled _Advantages of ratifying the Multilateral Instrument and Economic, social, cultural and environmental costs and effects of the treaty action_. It would also mean that resources that could otherwise be used to progress other projects and government priorities would be tied up in negotiating and ratifying individual bilateral protocols.
+
+74\. Therefore, not becoming party to the MLI, and entering into bilateral negotiations with all of New Zealand’s treaty partners would not be in New Zealand’s overall interests. Of the options available, the proposed treaty action is the best policy option and will achieve the Government’s policy objectives.
+
+### Legal obligations which would be imposed on New Zealand by the treaty action, the position in respect of reservations to the treaty, and an outline of any dispute settlement mechanisms
+
+75\. DTAs cannot impose additional tax obligations beyond what is provided for under domestic law. This means that although the MLI consists largely of base protection measures that would allow the source country to impose tax where the existing DTA does not, these measures cannot go beyond what would otherwise be imposed in absence of a DTA.
+
+76\. The text of the MLI itself cannot be amended to suit each jurisdiction’s preferences, but the MLI provides flexibility by allowing jurisdictions to opt into or reserve against certain provisions. The possible reservations are described in each Article and Article 28 provides that these are the only reservations that are able to be made. In the case of arbitration, free form reservations are permitted, but these must be accepted by the jurisdiction’s treaty partner in order for the reservation to apply to a DTA.
+
+77\. To ensure the operation of the MLI is clear and transparent, signatories must notify the OECD Depositary of which DTAs they wish to cover, which reservations they wish to enter, optional provisions they wish to choose and which provisions in their nominated DTAs will be modified by the MLI. The OECD will publish this information online and it will be readily accessible to the public.
+
+78\. These reservations must either be made at the time of signature of the MLI and confirmed at the time the instrument of ratification is deposited, or a provisional list of expected reservations must be provided at the time of signature and subsequently confirmed at the time the instrument of ratification is deposited. At the time of signature, New Zealand provided a provisional list of expected reservations and so New Zealand’s confirmed notifications and reservations must be submitted at the time the instrument of ratification is deposited.
+
+79\. After a jurisdiction’s choices and reservations are confirmed at the time the instrument of ratification is deposited, that jurisdiction is still able to add new DTAs to their list of treaties covered by the MLI and withdraw their reservations (or reduce the scope of their reservations), but are unable to enter new or broader reservations. The effect of this is that, following ratification, New Zealand (and other) jurisdictions can expand, but not narrow, the application of the MLI to their DTA network. This is provided for in Articles 28 and 29 of the Multilateral Instrument.
+
+80\. New Zealand’s provisional notifications and reservations can be found in Annex B and the overall effect of New Zealand’s options and reservations is discussed in the section titled _Reasons for New Zealand becoming party to the treaty_. As noted in that section, the MLI provisions will only apply to a DTA if the other treaty partner also chooses the same option. This means that the effect of the MLI could vary from treaty to treaty.
+
+81\. There is no dispute settlement mechanism for the MLI itself, but Article 32 provides that any questions arising as to the interpretation or implementation of the MLI may be addressed by a “Conference of the Parties”. Under Article 31 a Conference of the Parties can be convened to consider a proposed amendment at the request of one of the parties to the MLI, but only if one third of the parties to the MLI support the request within six calendar months of the request being communicated.
+
+82\. Note, however, that New Zealand is signing up to improved MAP provisions and arbitration, which will improve the dispute resolution mechanisms available in New Zealand’s existing DTAs that are being amended by the MLI.
+
+### Measures which the Government could or should adopt to implement the treaty action, including specific reference to implementing legislation
+
+83\. Subject to the successful completion of the Parliamentary treaty examination process, the MLI will be incorporated into domestic legislation by Order in Council pursuant to section BH 1 of the Income Tax Act 2007. Section BH 1 provides for the giving of overriding effect to DTAs by Order in Council. However, the override relates only to tax matters, and applies only in respect of the Inland Revenue Acts, the Official Information Act 1982 and the Privacy Act 1993.
+
+84\. The override of the Inland Revenue Acts is necessary to give effect to the core provisions of the MLI and New Zealand’s DTAs, which may provide relief from tax that would otherwise be imposed under domestic law. The override of the Official Information Act 1982 is necessary to ensure that confidential communications with the other jurisdiction do not have to be disclosed. The override of the Privacy Act 1993 is necessary to ensure that information regarding natural persons can be exchanged according to the terms of the treaty.
+
+85\. Article 34 of the MLI provides that the agreement itself will only enter into force once five jurisdictions have completed their domestic law requirements and have deposited their instruments of ratification. In particular, it will enter into force on the first day of the month following the expiration of a period of three calendar months beginning on the date of deposit of the fifth instrument of ratification. If New Zealand is one of the first five jurisdictions to ratify the MLI, it will enter into force for New Zealand on that date. If not, the MLI will enter into force for New Zealand on the first day of the month following the expiration of a period of three calendar months after the date New Zealand’s instrument of ratification is deposited.
+
+86\. New Zealand will be in a position to deposit its instrument of ratification with the Depositary of the MLI, the Secretary-General of the OECD, once the Order in Council has entered into force, which will be 28 days after its publication in the _New Zealand Gazette_.
+
+87\. As the MLI affects pre-existing DTAs that have been negotiated by two jurisdictions, Article 35 provides that the provisions of the MLI will only have effect in relation to a particular DTA once the MLI has entered into force for both parties to that DTA. For withholding tax, it will apply where the event giving rise to the tax occurs on or after 1 January of the next calendar year beginning on or after the latest date on which the MLI enters into force for each of the parties to the covered tax agreement. For income tax, it will apply to taxable periods (in New Zealand’s case, income years) beginning on or after a 6 month period from the latest date on which the MLI enters into force for each of the parties to the covered tax agreement.
+
+88\. Some domestic law changes may be needed to facilitate the modifications to New Zealand’s DTAs by the MLI. For example, officials anticipate there may need to be some amendments to the dispute procedures in Part 4A of the Tax Administration Act 1994 to enable cases to be submitted to arbitration without prejudicing taxpayer rights under the domestic law. There may also be changes needed to the time bar rules to allow arbitration decisions to be implemented notwithstanding domestic law time limits for amending assessments and providing taxpayer refunds.
+
+89\. As an alternative to the above Order in Council mechanism, the MLI could be given legislative effect by means of the enactment of a dedicated statute. However, this option would unnecessarily increase the amount of primary tax legislation and could be difficult to achieve in reality given the system for depositing notification and reservations, so it is not preferred or practical.
+
+### Economic, social, cultural and environmental costs and effects of the treaty action
+
+90\. With the political and media focus on BEPS in recent years, there has been a sentiment among the general public that multinationals are not paying their fair share of tax.
+
+91\. New Zealand’s tax system operates on the principle of voluntary compliance, which relies on taxpayers understanding their tax obligations and how the wider tax system works. An important part of this is that, overall, the tax system is seen to be fair. If the view persists that multinationals do not pay their fair share of tax, this could undermine the integrity of the tax system and the ability to New Zealand to operate a tax system based on voluntary compliance and self-assessment.
+
+92\. The provisions that New Zealand is signing up to in the MLI are base protection measures which will strengthen New Zealand’s ability to tax a multinational’s income where there is a New Zealand source and will reduce the ability of multinationals to misuse those DTAs to eliminate tax in New Zealand.
+
+93\. Therefore, New Zealand’s ratification of the MLI and the resolution of treaty-related BEPS issues in a timely manner will assist in supporting the overall integrity of the New Zealand tax system.
+
+94\. In addition, ratifying the MLI may enhance or reinforce New Zealand’s reputation in the international community as a supporter of the OECD/G20 BEPS project.
+
+95\. From an economic impact perspective, the MLI, as a tool to resolve BEPS concerns that arise as a result of the misuse of DTAs, increases worldwide economic efficiency. This is because the use of BEPS techniques results in cross-border investments being subsidised relative to domestic investment. This leads to an inefficient allocation of investment internationally. Eliminating this misallocation would increase worldwide efficiency, leading to higher worldwide incomes.
+
+96\. One source of such inefficiency arises from the use of complex arrangements to benefit from certain provisions found in DTAs. The introduction of a whole-of-treaty anti-abuse rule (the principal purpose test in Article 7) through the MLI should have a dampening effect on taxpayers’ appetites to use such complex arrangements.
+
+97\. However, there is a potential trade-off that should be noted - increasing the tax that New Zealand is able to impose under a DTA could have a negative impact on the level of foreign investment into New Zealand and on the cost of capital. This concern is not unique to the MLI and is a potential concern with any tax measure that increases the effective rate of tax on inbound investment. In June 2016, officials released a draft paper titled _New Zealand’s taxation framework for inbound investment_ which explores the issue in greater detail and can be found at www.taxpolicy.ird.govt.nz. In line with the analysis in this paper, our assessment is that any impact would likely be low and is acceptable in the overall context of the BEPS project. New Zealand is adopting the MLI alongside a number of likeminded countries who are implementing the BEPS measures broadly at the same time. Furthermore, the base protection measures included in the MLI are important to protect the New Zealand tax base and ensure that New Zealand is able to collect its fair share of revenues.
+
+98\. As stated in New Zealand’s taxation framework for inbound investment:
+
+> _“Taxes are necessary to fund government spending. New Zealand faces growing fiscal pressures with an ageing population. Maintaining robust tax bases is important to reduce upward pressures on tax rates and help maintain our coherent tax structure._
+> 
+> _New Zealand levies tax on the profits of non-resident-owned firms that are sourced in New Zealand. These taxes should not be voluntary. Tax rules should not allow foreign-owned firms to sidestep paying taxes on their profits in New Zealand._
+> 
+> _Almost all taxes are likely to have some negative effects on economic activity. In setting taxes on inbound investment there is a balance to be struck. Taxes should not unduly discourage inbound investment but we want the tax system to be robust. It is important that taxes are fair and seen to be fair._
+> 
+> _…Deviations from normal tax rules, intended or otherwise, can lead to substitution of low-taxed investors for tax-paying investors, reducing national income without necessarily lowering the overall pre-tax cost of capital to New Zealand or increasing investment. Accordingly, base-maintenance provisions that ensure the intended level of tax is collected will often be in New Zealand’s best interest.”_
+
+99\. Note that this is a secondary effect that arises from behavioural changes which officials are unable to quantify.
+
+100\. When resolving BEPS issues it is important that New Zealand remains an attractive place to base a business and invest. Taking a unilateral approach could harm New Zealand’s reputation as a good place to do business, because New Zealand’s tax treaty network could look less favourable relative to other countries’ networks. However, a co-ordinated approach through the MLI minimises this risk by broadly simultaneously amending potentially several thousand treaties at the same time.
+
+101\. Regardless, the overall benefits of ratifying the MLI are expected to outweigh the costs.
+
+### The costs to New Zealand of compliance with the treaty
+
+102\. Normally, new DTAs or amending protocols constrain New Zealand from taxing certain income and limit the rate at which tax on passive income (dividends, interest, and royalties) can be imposed and therefore result in the reduction of New Zealand tax. However, this upfront revenue cost is typically offset by other factors (for example, through a reduced need for New Zealand to allow foreign tax credits for foreign income tax paid by New Zealand residents on foreign-sourced income).
+
+103\. The MLI differs in that its provisions are typically base protection measures which increase New Zealand’s ability to tax inbound investment and equips New Zealand with a whole-of-treaty anti-abuse rule to prevent tax avoidance through the use of DTAs. This may result in more tax paid by non-residents in New Zealand.
+
+104\. However, as the provisions are reciprocal, the MLI may also increase the amount of foreign income tax paid by New Zealand residents with overseas investments and business operations. This could decrease the amount of net New Zealand income tax paid on that foreign income as a foreign tax credit is provided for foreign income tax paid.
+
+105\. Data limitations prevent officials from estimating the actual impact on net tax revenue. However, as New Zealand is a capital importer and the MLI covers the majority of New Zealand’s DTA network, it is expected that the overall impact on tax revenue will be positive. A similar effect would be expected if instead of ratifying the MLI, New Zealand entered into individual amending protocols with each of its DTA partners.
+
+106\. In terms of costs borne by Inland Revenue, there will be costs associated in administering the arbitration and other competent authority agreement provisions contained in the MLI. However, these are expected to be small and would be the same if instead of ratifying the MLI, New Zealand entered into individual amending protocols with each of its DTA partners.
+
+107\. The existence of arbitration provides a strong incentive for revenue authorities to resolve issues under the MAP before arbitration can be triggered. New Zealand’s DTAs with Australia and Japan already provide for arbitration and New Zealand’s experience is that very few cases have been brought by taxpayers under the MAP and almost all of these have been settled within the required time period, regardless of whether the DTA provides for arbitration.
+
+108\. As mentioned above, there will be additional compliance and/or administrative costs associated with determining how the MLI modifies particular DTAs, producing guidance on the application of the MLI and using competent authority agreements to determine the treaty residence of dual-resident entities or challenging the application of specific anti-avoidance provisions such as the third state permanent establishment rule. While we are unable to quantify these compliance and administrative costs, we expect them to be modest and through consultation officials are working on ways to minimise these further.
+
+109\. Some of these compliance and administrative costs would still arise if instead of ratifying the MLI, New Zealand entered into individual amending protocols with each of its DTAs partners, for example in the context of competent authority agreements to determine the treaty residence of dual-resident entities or in challenging the application of specific anti-avoidance provisions.
+
+110\. Other costs are unique to the ratification of the MLI but would be offset by the benefits of the MLI. For example, the upfront compliance costs associated with determining how the MLI modifies particular DTA and the administrative costs associated with producing guidance on the application of the MLI would be offset by the savings made from not having to enter into bilateral negotiations with each DTA partner and then having to bring each amending protocol into force.
+
+### Completed or proposed consultation with the community and parties interested in the treaty action
+
+111\. The Treasury and the Ministry of Foreign Affairs and Trade were consulted about the content of this extended National Interest Analysis.
+
+112\. In addition, an officials’ issues paper titled _New Zealand’s implementation of the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS_ was published in March 2017 and is available at www.taxpolicy.ird.govt.nz. While officials generally do not consult on the content of tax treaties, due to the complicated nature of the MLI, public feedback was sought on potential implementation issues related to the MLI. Two stakeholder workshops were held on 27 and 28 March 2017 with interested practitioners to enable officials to better understand practitioners’ concerns. Submissions closed on 7 April 2017. Submissions received by that date were taken into account in the drafting of this extended National Interest Analysis, particularly in relation to the potential mitigation of identified disadvantages associated with New Zealand’s ratification of the MLI.
+
+### Subsequent protocols and/or amendments to the treaty and their likely effects
+
+113\. After a jurisdiction’s choices and reservations are confirmed at the time the instrument of ratification is deposited, that jurisdiction is still able to add new DTAs as DTAs covered by the MLI and withdraw their reservations (or reduce the scope of their reservations), but are unable to enter new reservations. The effect of this is that, following ratification, New Zealand (and other) jurisdictions can expand, but not narrow, the application of the MLI to their DTA network. This is provided for in Articles 28 and 29 of the MLI.
+
+114\. Article 33 provides that any party may propose an amendment to the MLI by submitting the proposed amendment to the Depository. Under Article 31 a “Conference of the Parties” could be convened to consider the proposed amendment at the request of the proposer, but only if one third of the parties to the MLI support the request within six calendar months of the request being communicated.
+
+115\. Article 38 provides that the MLI could be supplemented by one or more protocols. To become a party to such a protocol, one must be a party to the MLI, but parties to the MLI are not bound by such protocols unless they also become a party to that protocol.
+
+116\. New Zealand may enter into subsequent bilateral protocols which could supersede and replace the MLI provisions in a DTA.
+
+117\. Going forward, the MLI provisions are likely to form part of New Zealand’s negotiating model and so will be generally incorporated into new DTAs.
+
+### Withdrawal or denunciation provision in the treaty
+
+118\. Article 37 provides that any party to the MLI may withdraw from the Multilateral Instrument at any time by notifying the Depositary. The withdrawal is effective from the date of receipt of the notification by the Depositary.
+
+119\. However, if the MLI has already entered into force for both parties to a DTA, then that DTA will remain modified by the Multilateral Instrument.
+
+### Agency Disclosure Statement
+
+Inland Revenue has prepared this extended National Interest Analysis (NIA). Inland Revenue has analysed the issue of implementing the Multilateral Instrument, and the legislative and regulatory proposals arising from that implementation.
+
+As part of that process, Inland Revenue considered the option of not entering into the MLI and instead retaining the status quo or entering into bilateral negotiations with each of New Zealand’s DTA partners.
+
+Inland Revenue is of the view that there are no significant constraints, caveats or uncertainties concerning the regulatory analysis. The policy aligns with the Government Statement on Regulation.
+
+The provisional notifications and reservations lodged by New Zealand at the time of signature reflect the new OECD minimum and best practice standards relating to tax treaties. The position taken by New Zealand in the provisional notifications and reservations are consistent with the New Zealand negotiating model and will likely be incorporated into the New Zealand negotiating model going forward.
+
+The revenue effect for New Zealand as a result of the changes under the MLI is expected to be negligible but potentially revenue positive due to New Zealand’s status as a net capital importer.
+
+An Order in Council will be required to give the MLI effect in New Zealand law. The Order in Council will override the Inland Revenue Acts, the Official Information Act 1982 and the Privacy Act 1993; this is provided for under section BH 1 of the Income Tax Act 2007 and is necessary to give effect to the terms of the MLI.
+
+The Treasury and the Ministry of Foreign Affairs and Trade have been consulted about the content of this extended NIA. An officials’ issues paper on implementation issues associated with the MLI was released in March 2017 and the submissions received informed the analysis in this extended NIA.
+
+Inland Revenue’s view is that the policy options considered will not impose material additional costs on business interests; nor impair private property rights, market competition, or the incentives for business to innovate and invest; nor override fundamental common law principles.
+
+Carmel Peters  
+Policy Manager  
+Policy and Strategy  
+Inland Revenue
+
+9 May 2017
+
+### Annex A
+
+Text of the MLI [**\[See Annex A to the Cabinet paper\]**](/publications/2017/2017-other-beps/05-cabinet-paper-mli/05-3-annex-a-text-mli)
+
+### Annex B
+
+Notifications/reservations [**\[See Annex B to the Cabinet paper\]**](/publications/2017/2017-other-beps/05-cabinet-paper-mli/05-4-annex-b)
+
+### Annex C
+
+New Zealand has 40 DTAs currently in force. The table below shows the coverage of the MLI across New Zealand’s treaty network (as at 9 May 2017). [**\[See also Annex C to the Cabinet paper\]**](/publications/2017/2017-other-beps/05-cabinet-paper-mli/05-5-annex-c)
+
+|     | DTA |     |
+| --- | --- | --- |
+| Covered tax agreements | 1.  | Australia |
+| 2.  | Belgium |
+| 3.  | Canada |
+| 4.  | Chile |
+| 5.  | China |
+| 6.  | Czech Republic |
+| 7.  | Denmark |
+| 8.  | Finland |
+| 9.  | France |
+| 10. | Germany |
+| 11. | Hong Kong (China) |
+| 12. | India |
+| 13. | Indonesia |
+| 14. | Ireland |
+| 15. | Italy |
+| 16. | Japan |
+| 17. | Malaysia |
+| 18. | Mexico |
+| 19. | Netherlands |
+| 20. | Poland |
+| 21. | Russia |
+| 22. | Singapore |
+| 23. | South Africa |
+| 24. | Spain |
+| 25. | Sweden |
+| 26. | Turkey |
+| 27. | United Kingdom |
+| 28. | Korea |
+| Not modified by the MLI | 29. | Switzerland |
+| 30. | Viet Nam |
+| 31. | Thailand |
+| 32. | Philippines |
+| 33. | Norway |
+| 34. | Austria |
+| 35. | United Arab Emirates |
+| 36. | Papua New Guinea |
+| 37. | Samoa |
+| 38. | Taiwan |
+| 39. | Fiji |
+| 40. | United States |
+
+1 The recommendation follows similar OECD Council recommendations that have been in place since before New Zealand joined the OECD.
+
+2 See for example, the BEPS Cabinet Paper released in June 2016 http://taxpolicy.ird.govt.nz/sites/default/files/2016-other-cabinet-paper-beps-update.pdf and the Government press release welcoming the release of the Multilateral Instrument on 28 November 2016 https://www.beehive.govt.nz/release/oecd-multilateral-instrument-counter-beps.
+
+3 The Inclusive Framework is a group of over 90 jurisdictions that have committed to combatting BEPS. Members of the inclusive framework will develop a monitoring process for the four minimum standards as well as put in place the review mechanisms for other elements of the BEPS Package. One of the functions of the Inclusive Framework is to support the development of the toolkits for low-capacity developing countries.

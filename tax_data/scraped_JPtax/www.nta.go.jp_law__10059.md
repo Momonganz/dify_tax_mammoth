@@ -1,0 +1,3 @@
+（単位：円）
+
+![](https://www.nta.go.jp/tmp/f9a07195-df29-494c-8206-22877126ef39/images/0082502103b9a49703c70b71a0d775f35075d2a765c6df9c2a4e0616d5f353dd.jpg)

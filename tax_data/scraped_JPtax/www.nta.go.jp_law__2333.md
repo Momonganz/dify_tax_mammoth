@@ -1,0 +1,73 @@
+1. [ホーム](https://www.nta.go.jp/)
+2. [法令等](https://www.nta.go.jp/law/index.htm)
+3. [質疑応答事例](https://www.nta.go.jp/law/shitsugi/01.htm)
+4. [財産評価](https://www.nta.go.jp/law/shitsugi/hyoka/01.htm)
+5. 不整形地の評価――近似整形地を基として評価する場合
+
+# 不整形地の評価――近似整形地を基として評価する場合
+
+## 【照会要旨】
+
+次の図のような不整形地はどのように評価するのでしょうか。
+
+![不整形地の図](https://www.nta.go.jp/law/shitsugi/hyoka/03/img/15_01.gif)
+
+## 【回答要旨】
+
+不整形地に近似する整形地を求め、その近似整形地を基として求めた価額に不整形地補正率を乗じて評価します。
+
+(注意事項)
+
+1　近似整形地は、近似整形地からはみ出す不整形地の部分の地積と近似整形地に含まれる不整形地以外の部分の地積がおおむね等しく、かつ、その合計地積ができるだけ小さくなるように求めます。
+
+2　近似整形地の屈折角は90度とします。
+
+3　近似整形地と想定整形地の地積は必ずしも同一ではありません。
+
+（計算例）
+
+1　近似整形地の奥行価格補正後の1平方メートル当たりの価額（不整形地の奥行価格補正後の1平方メートル当たりの価額）
+
+![近似整形地の奥行価格補正後の1平方メートル当たりの価額の計算例](https://www.nta.go.jp/law/shitsugi/hyoka/03/img/15_02.gif)
+
+2　不整形地補正率
+
+![不整形地補正率の計算例](https://www.nta.go.jp/law/shitsugi/hyoka/03/img/15_03.gif)
+
+3　評価額
+
+![評価額の計算例](https://www.nta.go.jp/law/shitsugi/hyoka/03/img/15_04.gif)
+
+(注)　財産評価基本通達20-2の「地積規模の大きな宅地の評価」については、考慮しないこととして計算しています。
+
+## 【関係法令通達】
+
+財産評価基本通達20
+
+**注記**
+
+**令和6年8月1日現在の法令・通達等に基づいて作成しています。**
+
+**この質疑事例は、照会に係る事実関係を前提とした一般的な回答であり、必ずしも事案の内容の全部を表現したものではありませんから、納税者の方々が行う具体的な取引等に適用する場合においては、この回答内容と異なる課税関係が生ずることがあることにご注意ください。**
+
+[このページの先頭へ](https://www.nta.go.jp/law/shitsugi/hyoka/03/15.htm#page-top)
+
+## [法令等](https://www.nta.go.jp/law/index.htm)
+
+### [税法（e-Govの「e-Gov法令検索」へリンク）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0100/)
+
+### [法令解釈通達](https://www.nta.go.jp/law/tsutatsu/menu.htm)
+
+### [その他法令解釈に関する情報](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/sonota.htm)
+
+### [事務運営指針](https://www.nta.go.jp/law/jimu-unei/jimu.htm)
+
+### [国税庁告示](https://www.nta.go.jp/law/kokuji/kokuji.htm)
+
+### [文書回答事例](https://www.nta.go.jp/law/bunshokaito/01.htm)
+
+### [質疑応答事例](https://www.nta.go.jp/law/shitsugi/01.htm)
+
+|     |     |
+| --- | --- |
+|  |  |
